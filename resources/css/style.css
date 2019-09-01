@@ -1,0 +1,140 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background: black;
+}
+
+
+img {
+  display: block;
+  height: 100%;
+  width: auto;
+}
+
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+header {
+  width: 100%;
+  height: 10%;
+  background-image: linear-gradient(
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(2, 0, 0),
+     rgb(4, 1, 0),
+     rgb(8, 2, 0),
+     rgb(13, 2, 0),
+     rgb(15, 2, 0),
+     rgb(18, 3, 0),
+     rgb(20, 4, 0),
+     rgb(25, 5, 0),
+     rgb(35, 7, 0),
+     rgb(45, 10, 0),
+     rgb(60, 20, 0),
+     rgb(75, 30, 0),
+     rgb(85, 40, 0),
+     rgb(100, 50, 0),
+     rgb(125, 63, 0)
+    );
+}
+
+#Main {
+  height: 80%;
+  background-image: linear-gradient(to top,
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(0, 0, 0),
+     rgb(5, 0, 0),
+     rgb(10, 0, 0),
+     rgb(25, 0, 0),
+     rgb(50, 5, 0),
+     rgb(70, 15, 0),
+     rgb(85, 30, 0),
+     rgb(125, 63, 0)
+    );
+}
+
+
+#ParchContainer {
+  height: 100%;
+  width: 90%;
+  max-width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#ParchTop {
+  width: 90%;
+  max-width: 850px;
+  height: auto;
+  position: fixed;
+  z-index: 1;
+  user-select: none;
+  pointer-events: none;
+}
+
+#ParchScroll {
+  height: 77.5%;
+  max-width: 850px;
+  width: 90%;
+  position: fixed;
+  top: 12%;
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+#ParchMid {
+  width: 95%;
+  min-height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("../Images/parchment_middle.png");
+  background-size: contain;
+  background-repeat: repeat-y;
+  position: relative;
+  overflow-x: visible;
+}
+
+#Content {
+  width: auto;
+  margin: 0 30px;
+  padding: 17% 0 12% 0;
+}
+
+#ParchBtm {
+  width: 90%;
+  max-width: 850px;
+  height: auto;
+  position: fixed;
+  bottom: 5%;
+  z-index: 1;
+  user-select: none;
+  pointer-events: none;
+}
