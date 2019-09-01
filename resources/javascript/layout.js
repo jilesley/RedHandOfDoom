@@ -1,14 +1,54 @@
 $(document).ready(function() {
+  //var pageRef = "D:/_development%20folder/RedHandOfDoom";
+  var pageRef = "https://jilesley.github.io/RedHandOfDoom";
+
+// Add general metadata
+  $("head").append(
+    "<meta charset='utf-8'>" +
+    "<meta name='viewport' content='width=device-width, initial-scale=1'>" +
+    "<meta property='og:title' content='Red Hand of Doom'>" +
+    "<meta property='og:description' content='The webpage for our Red Hand of Doom D&D game run by the glorious DM: Zac'>" +
+    "<meta property='og:image' content='https://i.imgur.com/YyGvoA9.png'>" +
+    "<meta property='og:url' content='https://jilesley.github.io/RedHandOfDoom'>" +
+
+    "<title>Red Hand of Doom</title>" +
+    "<link href='" + pageRef + "/resources/css/reset.css' rel='stylesheet' type='text/css' />" +
+    "<link href='" + pageRef + "/resources/css/style.css' rel='stylesheet' type='text/css' />" +
+    "<link rel='shortcut icon' href='" + pageRef + "/resources/Images/favicon.ico' type='image/x-icon'>" +
+    "<link rel='icon' href='" + pageRef + "/resources/Images/favicon.ico' type='image/x-icon'>"
+  );
+
+
+
   $("body").append(
-    "<header><img class='center' src='./resources/Images/Main banner.png'></header>",
+    "<header></header>",
     "<div id='Main'/>");
+
+// Handle header layout
+  $("header").append(
+    "<nav class='center'>" +
+      "<a href='" + pageRef + "/Statistics.html'>Statistics</a>" +
+      "<a href='" + pageRef + "/Characters/PlayerCharacters/Character.html'>Characters</a>" +
+      "<a href='" + pageRef + "/index.html'><img src='" + pageRef + "/resources/Images/Main banner.png'></a>" +
+      "<a href='" + pageRef + "/QuestLog/ScribeNotes/Session.html'>Quest Log</a>" +
+      "<a href='" + pageRef + "/World/DMNotes/DMNote.html'>World</a>" +
+    "</nav>"
+  )
+
+
+// Handle main layout
 
   $("#Main").append("<div id='ParchContainer'/>");
 
   $("#ParchContainer").append(
-    "<img id='ParchTop' class='parchment' src='./resources/Images/parchment_top.png'/>",
+    "<img id='ParchTop' class='parchment' src='" + pageRef + "/resources/Images/parchment_top.png'/>",
     "<div id='ParchScroll'><div id='ParchMid' class='parchment'><div id='Content'/></div></div>",
-    "<img id='ParchBtm' class='parchment' src='./resources/Images/parchment_bottom.png'/>");
+    "<img id='ParchBtm' class='parchment' src='" + pageRef + "/resources/Images/parchment_bottom.png'/>");
+
+
+
+
+// Handle content
 
   $("#Content").append("<p>" +
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. " +

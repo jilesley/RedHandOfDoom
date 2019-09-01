@@ -9,7 +9,6 @@ body {
 
 
 img {
-  display: block;
   height: 100%;
   width: auto;
 }
@@ -56,8 +55,25 @@ header {
     );
 }
 
+nav {
+  height: 100%;
+  max-width: 850px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  align-items: center;
+  justify-items: center;
+  text-align: center;
+}
+
+nav * {
+  color: rgb(240, 220, 150);
+  max-height: 100%;
+}
+
+
+
 #Main {
-  height: 80%;
+  height: 90%;
   background-image: linear-gradient(to top,
      rgb(0, 0, 0),
      rgb(0, 0, 0),
