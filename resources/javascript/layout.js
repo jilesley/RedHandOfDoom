@@ -28,10 +28,67 @@ $(document).ready(function() {
   $("header").append(
     "<nav class='center'>" +
       "<a href='" + pageRef + "/Statistics.html'>Statistics</a>" +
-      "<a href='" + pageRef + "/Characters/PlayerCharacters/Character.html'>Characters</a>" +
+
+      "<div class='dropdown'>" +
+        "<span>Characters</span>" +
+        "<ul class='dropdown-content'>" +
+
+          "<li class='dropdown-sub'>" +
+            "<span>Player Characters</span>" +
+            "<ul class='dropdown-sub-content'>" +
+
+            "</ul>" +
+          "</li>" +
+
+          "<li class='dropdown-sub'>" +
+            "<span>NPCs</span>" +
+            "<ul class='dropdown-sub-content'>" +
+
+            "</ul>" +
+          "</li>" +
+
+        "</ul>" +
+      "</div>" +
+
+      //"<a href='" + pageRef + "/Characters/PlayerCharacters/Character.html'>Characters</a>" +
+
+
       "<a href='" + pageRef + "/index.html'><img src='" + pageRef + "/resources/Images/Main banner.png'></a>" +
-      "<a href='" + pageRef + "/QuestLog/ScribeNotes/Session.html'>Quest Log</a>" +
-      "<a href='" + pageRef + "/World/DMNotes/DMNote.html'>World</a>" +
+
+
+
+      "<div class='dropdown'>" +
+        "<span>Quest Log</span>" +
+        "<ul class='dropdown-content'>" +
+
+        "</ul>" +
+      "</div>" +
+
+      // "<a href='" + pageRef + "/QuestLog/ScribeNotes/Session.html'>Quest Log</a>" +
+
+
+      "<div class='dropdown dropdown-left'>" +
+        "<span>World</span>" +
+        "<ul class='dropdown-content'>" +
+
+          "<li class='dropdown-sub dropdown-sub-left'>" +
+            "<span>DM Notes</span>" +
+            "<ul class='dropdown-sub-content'>" +
+
+            "</ul>" +
+          "</li>" +
+
+          "<li class='dropdown-sub dropdown-sub-left'>" +
+            "<span>Locations</span>" +
+            "<ul class='dropdown-sub-content'>" +
+
+            "</ul>" +
+          "</li>" +
+
+        "</ul>" +
+      "</div>" +
+
+      // "<a href='" + pageRef + "/World/DMNotes/DMNote.html'>World</a>" +
     "</nav>"
   )
 

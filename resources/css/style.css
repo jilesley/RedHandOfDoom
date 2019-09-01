@@ -67,7 +67,60 @@ nav {
 
 nav * {
   color: rgb(240, 220, 150);
+}
+
+nav a {
   max-height: 100%;
+}
+
+nav a img {
+  max-height: 100%;
+}
+
+.dropdown, .dropdown-sub {
+  position: relative;
+}
+
+.dropdown-left .dropdown-content {
+  right: 0;
+}
+
+.dropdown-sub-left .dropdown-sub-content {
+  right: 105%;
+  left: auto;
+}
+
+.dropdown-content, .dropdown-sub-content {
+  text-align: left;
+  display: none;
+  position: absolute;
+  width: auto;
+  background: black;
+  box-shadow: 0 0 20px 10px rgba(200,100,0,0.5);
+  padding: 16px 12px 8px 12px;
+}
+
+.dropdown-content {
+  z-index: 2;
+}
+
+.dropdown-sub-content {
+  z-index: 3;
+  top: 0;
+  left: 105%;
+}
+
+.dropdown-content li {
+  white-space: nowrap;
+  padding-bottom: 8px;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-sub:hover .dropdown-sub-content {
+  display: block;
 }
 
 
