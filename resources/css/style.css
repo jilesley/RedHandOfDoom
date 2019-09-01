@@ -98,11 +98,11 @@ header {
 }
 
 #ParchScroll {
-  height: 77.5%;
+  height: 84.5%;
   max-width: 850px;
   width: 90%;
   position: fixed;
-  top: 12%;
+  top: 11%;
   overflow-y: scroll;
 }
 
@@ -125,7 +125,7 @@ header {
 #Content {
   width: auto;
   margin: 0 30px;
-  padding: 17% 0 12% 0;
+  padding: 10% 0 7.5% 0;
 }
 
 #ParchBtm {
@@ -133,7 +133,7 @@ header {
   max-width: 850px;
   height: auto;
   position: fixed;
-  bottom: 5%;
+  bottom: 2%;
   z-index: 1;
   user-select: none;
   pointer-events: none;
