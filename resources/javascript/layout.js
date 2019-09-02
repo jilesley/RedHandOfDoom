@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  //var pageRef = "D:/_development%20folder/RedHandOfDoom";
-  var pageRef = "https://jilesley.github.io/RedHandOfDoom";
+  var pageRef = "D:/_development%20folder/RedHandOfDoom";
+  //var pageRef = "https://jilesley.github.io/RedHandOfDoom";
 
 // Add general metadata
   $("head").append(
@@ -24,10 +24,16 @@ $(document).ready(function() {
     "<header></header>",
     "<div id='Main'/>");
 
+
+
+
 // Handle header layout
   $("header").append(
     "<nav class='center'>" +
+
       "<a href='" + pageRef + "/Statistics.html'>Statistics</a>" +
+
+
 
       "<div class='dropdown'>" +
         "<span>Characters</span>" +
@@ -35,22 +41,20 @@ $(document).ready(function() {
 
           "<li class='dropdown-sub'>" +
             "<span>Player Characters</span>" +
-            "<ul class='dropdown-sub-content'>" +
+            "<ul id='PlayerCharacterList' class='dropdown-sub-content'>" +
 
             "</ul>" +
           "</li>" +
 
           "<li class='dropdown-sub'>" +
-            "<span>NPCs</span>" +
-            "<ul class='dropdown-sub-content'>" +
+            "<span>NPC Groups</span>" +
+            "<ul id='NPCList' class='dropdown-sub-content'>" +
 
             "</ul>" +
           "</li>" +
 
         "</ul>" +
       "</div>" +
-
-      //"<a href='" + pageRef + "/Characters/PlayerCharacters/Character.html'>Characters</a>" +
 
 
       "<a href='" + pageRef + "/index.html'><img src='" + pageRef + "/resources/Images/Main banner.png'></a>" +
@@ -59,12 +63,11 @@ $(document).ready(function() {
 
       "<div class='dropdown'>" +
         "<span>Quest Log</span>" +
-        "<ul class='dropdown-content'>" +
+        "<ul id='ScribeNotesList' class='dropdown-content'>" +
 
         "</ul>" +
       "</div>" +
 
-      // "<a href='" + pageRef + "/QuestLog/ScribeNotes/Session.html'>Quest Log</a>" +
 
 
       "<div class='dropdown dropdown-left'>" +
@@ -73,14 +76,14 @@ $(document).ready(function() {
 
           "<li class='dropdown-sub dropdown-sub-left'>" +
             "<span>DM Notes</span>" +
-            "<ul class='dropdown-sub-content'>" +
+            "<ul id='DMNotesList' class='dropdown-sub-content'>" +
 
             "</ul>" +
           "</li>" +
 
           "<li class='dropdown-sub dropdown-sub-left'>" +
             "<span>Locations</span>" +
-            "<ul class='dropdown-sub-content'>" +
+            "<ul id='LocationsList' class='dropdown-sub-content'>" +
 
             "</ul>" +
           "</li>" +
@@ -88,9 +91,87 @@ $(document).ready(function() {
         "</ul>" +
       "</div>" +
 
-      // "<a href='" + pageRef + "/World/DMNotes/DMNote.html'>World</a>" +
+
     "</nav>"
-  )
+  );
+
+
+
+  let $PlayerCharacterList = $("#PlayerCharacterList");
+
+  $PlayerCharacterList.append("<li><strong>Main</strong><ul id='PCmainList'></ul></li>");
+  PlayerCharacters.main.forEach(function(character) {
+    $("#PCmainList").append("<li>" +
+    "<a href='" + pageRef + "/Characters/PlayerCharacters/Character.html" +
+    "?type=main&name=" + character.shortName + "'>" +
+    character.name +
+    "</a></li>");
+  });
+
+  $PlayerCharacterList.append("<li><strong>Guest</strong><ul id='PCguestList'></ul></li>");
+  PlayerCharacters.guest.forEach(function(character) {
+    $("#PCguestList").append("<li>" +
+    "<a href='" + pageRef + "/Characters/PlayerCharacters/Character.html" +
+    "?type=guest&name=" + character.shortName + "'>" +
+    character.name +
+    "</a></li>");
+  });
+
+
+  let $NPCList = $("#NPCList");
+
+  NonPlayerCharacters.forEach(function(group) {
+    $NPCList.append("<li>" +
+    "<a href='" + pageRef + "/Characters/NPCs/Character.html" +
+    "?groupName=" + group.groupName + "&character=all'>" +
+    group.groupName +
+    "</a></li>");
+  });
+
+
+
+
+
+  let $ScribeNotesList = $("#ScribeNotesList");
+
+  QuestLog.ScribeNotes.forEach(function(note) {
+    $ScribeNotesList.append("<li>" +
+    "<a href='" + pageRef + "/QuestLog/ScribeNotes/Session.html?name=" + note.name + "'>" +
+    note.name +
+    "</a></li>");
+  });
+
+
+
+
+
+  let $DMNotesList = $("#DMNotesList");
+
+  DMNotes.forEach(function(note) {
+    $DMNotesList.append("<li>" +
+    "<a href='" + pageRef + "/World/DMNotes/DMNote.html?name=" + note.name + "'>" +
+    note.name +
+    "</a></li>");
+  });
+
+
+
+
+
+  let $LocationsList = $("#LocationsList");
+
+  Locations.forEach(function(location) {
+    $LocationsList.append("<li>" +
+    "<a href='" + pageRef + "/World/Locations/Location.html" +
+    "?setName=" + location.setName + "?location=all'>" +
+    location.setName +
+    "</a></li>");
+  });
+
+
+
+
+
 
 
 // Handle main layout
