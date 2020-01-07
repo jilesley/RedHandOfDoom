@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  //var pageRef = "D:/_development%20folder/RedHandOfDoom";
-  var pageRef = "https://jilesley.github.io/RedHandOfDoom";
+  var pageRef = "D:/_development%20folder/RedHandOfDoom";
+  //var pageRef = "https://jilesley.github.io/RedHandOfDoom";
 
 // Add general metadata
   $("head").append(

@@ -589,6 +589,157 @@ Vilgrim checks out the ring; it's an adrenaline ring, and he decides to give it 
 And that's the end of the session. We are now level 5, and we get a long rest.
 `
     },
+
+    {
+      name: "Session 19",
+      title: "Loss, Lore and Lenn",
+      date: "06/01/2020",
+      characters: [
+        {
+          name: "Angelo",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Brande",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Ganraz",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Seamus",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Siennis",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Vilgrim",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+      ],
+      content:
+`{[h]So. Last session. That happened.}
+We're still in the academy.
+Aleya's breastplate has been removed for better access to the wound, which seems to have been healed, but there is no life. She seems tranquil. Angelo is still kneeling beside her, but he drops the staff now. Vilgrim is cradling her head. Brande doesn't fully understand what's happening, so he uses his pearl of power to get another third level spell slot back and tries to cast Cure Wounds on her. It of course doesn't work.
+Jazzir slowly stands, and reaches out a hand. His staff, which is at the bottom of the steps, shoots upwards and into his hand, and he uses it to help him down the stairs. Seamus casts Cure Wounds on him, and hears the dragonborn mutter under his breath, ‘The Lioness.' He pace begins to pick up as he moves down the steps, as he gets closer Seamus hears him whisper, ‘Poetry.' Then in a louder voice, he tells the others to remove the rest of her armour as there's something more he can do for her. Vilgrim and Brande rush to obey. He then reaches into a pouch, and pulls out two copper pieces, placing one on each of Aleya's eyes. As he finishes his incantation, he throws salt into the air, and ice covers Aleya's form. It's clear, we can see through it, but it is solid.
+Brande asks if this is healing her. Jazzir has to explain to him that she's gone, but this spell will preserve her body. Things are happening, and it may not be time yet to say our goodbyes. [He has cast Gentle Repose on her, so there's 10 days left on it] The effort exhausts him, and he gestures for a chair to come to him. He says he needs to contact someone as he sits, and he begins to cast a spell. Angelo and Seamus roll arcana checks, getting 18 and 17 respectively. They can both tell it's not an uncommon spell, and seems to be casting Sending to someone, even though he doesn't speak. He then casts the spell again, but this time he speaks. ‘I am pretty competent. I will discuss with them. Yes, I was there. I will be fine. Others are not so lucky.' Jazzir then tells us that he needs to talk to us, but will give us a few minutes whilst he messages other people to tell them of the attack.
+Seamus rests his hand on Angelo's shoulder, telling him that everyone tried their best. Angelo replies that it wasn't enough, and walks off to a far corner by himself. Ganraz sheaths his sword and leaves the building, going off for a walk by himself. Jazzir sees him leave, but doesn't stop him from going. Seamus and Vilgrim remain standing over the body. Brande looks pretty horrified.
+Jazzir returns, and says he will repay us in any way he can. The mages will retain the body. He then adds that we have much to discuss, and that he has contacted an ally. He starts to try and comfort us, but then sees we're really not in the mood for it, so he then tells us to meet him at the king's gate tomorrow. In the meantime, he's set us up in The Gilded Raven, the finest establishment in town, and everything is paid for. We're to tell the owner, Andraki Lenn, that Jazzir sent them, and everything will be sorted.
+He asks before we leave if he can study Aleya's sword, in light of what we just fought. He promises to give it back tomorrow when we meet up. Angelo's pissed about it but can't think of a good reason to say no. The others all agree.
+The rest of the party still in the building leave to go to the Raven, but Angelo asks Jazzir if he can access the library, because wizards have books. He gets pointed towards a few tomes. 18 investigation check. His focus is resurrection, and he's basically rage reading. It tends to vary depending on what religion you're talking about. Revivify, Silver Flame and dragonmarked house Golander(?). Doluhhr. The true soul slowly fades, and then it becomes hazy. Some suggest the soul is gone, leaving nothing but a faint echo. The Silver Flame suggest the soul merges with the Silver Flame. The Sovereign Host believe the soul exists on a plane that is not accessible until you have faded from Doluhhr. Higher levels of resurrection have been talked about, stories have been told about it. It does have limits on timing. Jazzir does comment that what he has done will extend the soul by ten days. The Silver Flame do have divine casters, but don't typically like resurrection, because it's seen as taking a soul from the Silver Flame, the truest calling for hero. The last bit of info he manages to get is that warforged, as per the "are they alive" debate, are shown to have souls and are therefore seen as living entities, but their souls do not seem to go to Doluhhr. Angelo rolls a 20 on his perception check, and sees Jazzir pick up one tome that was bound. It is titled, The Plane of Madness and the Entities That Dwell There. He had to literally unchain it to take it up to his study.
+[It's about midnight now] He's been there for about 2 hours. He only takes one break to write briefly in his diary. Angelo takes a point of exhaustion, and finally gives up to go and sleep.
+Meanwhile, the others enter The Raven. The doors open up to a grand entryway. Down the stairs sweeps a finely dressed half-elven gentleman, with blonde hair. [It's Angelo's cousin, damn] He introduces himself as Andraki Lenn. Vilgrim, Brande and Seamus introduce themselves as part of Jazzir's saviours. He then calls for "Sie" to help him. A human woman, wearing a nice dress, with long blonde hair. She's wearing a necklace that appears to have a shard of crystal attached. She gestures for the three of them to chill in a booth.
+Vilgrim goes up to the bar, and asks for something strong. Andraki is happy to help, going off on a mad one about all the alcohol he can serve. Siennis telepathically tells Andraki to chill, and he pours Vilgrim a drink. Then he assesses our group, and pours Vilgrim a bit more.
+Seamus is knackered and emotionally spent, so he goes up to the room key.
+Vilgrim stays in the booth, listening in on some conversations, but he doesn't listen to much.
+Ganraz sits by the river for a bit, and then goes to The Golden Dragon instead, which is notably more rowdy than The Raven.
+Vilgrim is still up and receives a message. ‘You are to meet with the Cannith agent. Listen to what he has to say, and report back.' It's a different voice to the one he's encountered before. He doesn't answer, he just spits. Andraki doesn't notice, but Siennis does. She doesn't act on it.
+Seamus gets to his room, and gets ready for bed as much as possible. He pulls a pendant out of his pocket, and sends a message to his daughter. "Hello. I know I haven't spoken to you in a long time now, and you haven't spoken to me either. Today I lost a friend, and it made me think of you, and how I lost you too. I hope I hear back from you." There's a long pause [literally the discord is so quiet, fuck, the tension] "Father, it has been a while. I'm sorry to hear of your loss. There are so many losses lately. It is good to hear from you. Pascal and I are safe. I hope you are too."
+Angelo does eventually come in, very late, and goes straight to the bar. "I want something strong enough that I can forget my own name." He downs it and goes up to bed.
+Siennis doesn't live at the Raven, so she's leaving. As she does, she telepathically asks Andraki if he's going to stay up. They have a cute telepathic flirting moment, but it looks like nothing to anyone else, obviously.
+
+{[h]Waking up in the morning}
+Most of the party wake up in The Raven. Each room has its own ensuite, with self-heating baths, magic hair dryers, full length mirrors, etc. Seamus recognises all of this as pretty new, Cyran tech. The furnishings are even nicer/more modern that what Angelo had in Cyre.
+The DM asks Brande to roll a percentile dice.
+The whole party: Oh no.
+Brande's sleep is restless. He has visions of Aleya's death over and over, and feels this surging rage. It feels… good, to channel this grief into the people who deserve it. He feels that it's their fault, the dragon's fault. He's drawn through a cloud of rage and grief, and the red smoke solidifies into a single point, which begins to grow, until it's a single red shard. It's ruby red, and appears to drift towards him. It seems to be no bigger than 5 or 6 inches. The hate begins to fade as the hate and the emotion begins to drift away, and he wants this thing. He wants the calm it gives him. And then he wakes up.
+Ganraz, meanwhile, asks for directions to the Raven. Luckily, we sort of stand out, so he asks if the nearest person has seen "the red guy". They know him as The Nomad, so they know our Breaker names, sweet. He joins us for breakfast.
+Andraki is doing his best to look after the party, offering tea and food. Brande asks if he has more meat. The DM has a menu somewhere. Siennis is not here yet. Andraki tells us that he's Draki to friends, but Ganraz insists on referring to him only as Andraki. He asks about the airship, and the dignitaries aboard it. Captain Eirros d'Lyrander, and it seems to be a joined endeavour with House Cannith. He admits that's basically all of his knowledge, and asks how he should address Ganraz and Seamus, as they're dragonmarked bois so he doesn't know if he should call them "my lords". They insist on only using their names, which he's fine with. Andraki asks if he should address them as d'Tharask and d'Cannith or not, and Ganraz immediately says no, his house doesn't use that, he's d'Barra. Andraki is incredibly embarrassed and flustered by the mistake, and hurries off.
+Siennis is wearing a red dress this time, and notices us sitting for breakfast, and looks away to walk past. The dress shows a bit more of her back this time. Seamus and Ganraz roll perception, and get 17 and 23 respectively. Seamus doesn't notice anything other than her entrance. Ganraz does notice something off, as his gaze is sort of drawn away from her, and he's not sure if he imagined it, but there's a blurring effect near her back. He does a double take, looking back at it, but then her back looks normal. She goes to the bar, talking to Andraki who's hurriedly cleaning things. She tells him (out loud) that she'll need to leave earlier today, because she needs to go and speak to Jazzir. Hopefully she'll be here to help him pack when the city is evacuated. Andraki is still flustered, and notices that she's not fully enthusiastic about it. He then goes off on a tirade about not being briefed on the proper decorum when addressing dragonmarked heirs.
+Brande goes over to Angelo's corner, and sits next to him. He asks if Angelo has ever seen a red crystal shape that might be magical. Angelo looks at him for a second, just absorbing the vagueness of that question, and then gets out his Black Book to have a look. He rolls a 15 on his history check, and he's heard of rubies etc for spell components, but he doesn't have much more info than that. Brande uses Minor Illusion to show him what the crystal looked like. Angelo asked if he saw that in Jazzir's room, because he didn't notice it. Brande says he thinks it will help. Angelo narrows his eyes, remarking that it didn't answer his question. Brande thinks that it will help stop what's happening to Aleya, and stop "what's happening".
+Vilgrim asks if we can all follow him, and Andraki gives us a side room with curtains. Vilgrim begins, "As an old friend once told me…… The span of someone's life makes up only the core of their existence. No one is finally dead, until the ripples they cause in the world die away. On the grand scale of things, I knew Aleya for but a fleeting moment. Despite that, the mark she left behind will doubtless remain upon all of the lives of those who gather here today."
+Angelo is literally about to walk out of this room.
+Then Vilgrim continues, "With this thought, I must confess something to you all now. Before Aleya made her final journey, I made a promise to her, and despite her indifference to me keeping it at the time, I intend to follow through on it.
+In normal circumstances I would never tell a soul what I'm about to tell you. But, in times like these…. and seeing as I've grown to trust you lot with my life over these past short days…. well… let's just say that I haven't been entirely straight up with you all, nevertheless, I'd like you all to at least hear me out.
+For many years now I have worked to gather and exchange all manners of information at the behest of my government. In fact, that's how I ended up in this situation in the first place. A simple reconnaissance mission on the character of a caravan of refugees…
+Well, with the… gravity.. of the situation that we find ourselves placed in continuing to grow and grow in magnitude, seemingly without end, its more than time now for me to do what I can."
+Angelo's about to walk out, until Vilgrim says he's got something to confess. Vilgrim admits that he's been gathering intel for his government, and that's how he got to join the caravan anyway. Now that shit got real, he wants to do what he can to help our party, so that nothing happens again like what happened to Aleya. He plans to travel back to his homeland, which he hopes will allow him to bring aid. He doesn't know if he can do it, but the attempt is worthwhile. He then goes on to say that even though he knows that the relationships with some of the party members hasn't been exactly positive (Angelo snorts), he hopes the party can forgive him for being deceitful. Brande says Vilgrim is brave for confessing, and Ganraz says that Vilgrim has fought with us, so he's welcome to return and have a drink with Ganraz.
+Andraki pops his head back in, and asks if we're available to talk to two people who have come with a message for Vilgrim and Seamus. Alpha barges past him [which is fucking rude, we should kill Alpha, Andraki is a GOOD BOI]. They hold up an orb they are carrying, and we hear Dolaan's voice come through, telling us he wants to meet with Seamus and Vilgrim at the earliest convenience.
+
+{[h]Meeting with Jazzir}
+Siennis has left a while ago.
+It is rammed, there are guards calling to people, and there's a lot of people rushing towards the riverfront, where the King's Gate is. There's seems to be some commotion down by the river. As we approach, people sort of notice us and move out of the way. There used to be a wall here, and buildings have been built into the remains.
+At regular intervals, we can see various Brindol Academy mages, with Jazzir in purple in the centre of the bridge. Everything goes silent as Jazzir finishes his incantation and raises his hands. The water level along the river pulls back and draws upwards. There's a 30ft high wall of water being maintained in the air, and the other members of the academy step forwards to help move this huge wall. They pull it back towards the King's Gate, until it becomes level with the bank, and begins flowing over the buildings. Jazzir steps back with the wall, until he finally reaches the King's Gate, and then drops one hand. As one, he and all the students push. It turns into a deep wall of ice.
+There must be thousands of people, all watching, and as it freezes there's this loud intake of breath, and then everyone starts cheering.
+Jazzir turns and addresses the crowd. His voice seems to be amplified. "By the will of the Academy, Brindol will not fall." There's a massive cheer, and the 50 students bow with him. As there's clamour all around us, Jazzir spots us. He apologises for the theatrics, and we join him on his journey back to the academy, to return to his study.
+Naturally, this place immediately brings back terrible memories. Everything has been rearranged though, and Aleya has been moved to the Cathedral of the Sovereigns. As we enter, we see Siennis, who is wearing very practical but basically new leather armour, which is a mix of greens and greys. She seems to be prepared for more intensive activity.
+Jazzir gestures for us all to sit, and Siennis goes over to him. She places a hand on his shoulder, and casts Lesser Restoration on his to remove fatigue, because he's obviously exhausted. He sits up a little straighter, and thanks her. He also thanks us again for his life. Now that he's had time to study the entity that attacked, he realises the true level of threat that we're dealing with. He first introduces Siennis properly, as Siennis Theil. We all hear her voice in our heads, telling us that it's nice to meet us. Ganraz and Angelo disliked that. Brande finds it weirdly familiar, which piques Siennis' curiosity, because why Brande. Jazzir goes on to tell Siennis to maybe not do that until we're used to her. He adds that he cannot leave Brindol, but Siennis can act in his stead. He then says he will leave us to discuss with Siennis.
+Angelo and Seamus recognise her speech as one of who's from a noble household. She stumbles a little over the words, as if she's not used to speaking out loud. She apologises for startling us, and also for our loss. She knows she cannot replace "The Lioness", but she wants to help us with whatever we plan to do. Except for Seamus, none of us have heard of Aleya referred to as The Lioness.
+Jazzir says he has researched the Ghostlord, Mr Flay, and also the sword of Usak Vaal. He asks which we'd prefer to hear about first. We pick Mr Flay, obviously. He explains that Mr Flay and Mr Gristle are entities of the Plane of Madness. He tried to fight them off using his – he says this in all of our heads – innate abilities. Everyone disliked that. He then asks if we'd heard of the Daelkyr, which is related to the mural we found way back in the prologue, in the tomb of Usak Vaal. The aberrations came through from the Plane of Madness, and were fought off by the Dekani(?) Empire. The Empire fell, even though they did manage to beat back the aberrations. Mr Flay and Mr Gristle were originally known at the Grimmkin, and they are two of three. They are the creation of a powerful being known as the Stained One. Trying to interact with such beings telepathically brings great pain, which is why Brande took damage when he tried to inflict psychic damage.
+Siennis asks Jazzir telepathically if it's possible that the third one [the bone boi] is being used to control Mr Flay and Mr Gristle somehow. He says it's possible, and she relays this to the rest of the group. [So we're fighting Mr Flay, Mr Gristle, and Mr Calcium/Skeletor]
+Jazzir also explains that the sword is good to use to destroy the Grimmkin for good. It will be our greatest weapon against the aberrations, and should be wielded by a champion. That's probably why the Red Hand wanted it; if Azarr Kul had it, he could sway more to his side.
+He moves on to the Ghostlord, and knows the Stone Lion in the Field of Wounds, which is a tangle of sentient thorns. Jazzir's contacts who have investigated this area before have seen spectral lions. If the Red Hand are to use the Ghostlord's forces against the Vale, Brindol will probably fall. He also isn't sure about how our plan to convince the Ghostlord not to fight will go down, as he was a twisted, evil man. Dragons are bad, but he puts the Ghostlord high on the threat list.
+Jazzir also tells us that one of the prominent guard captains in Denevar was attacked, but he's still alive. There was also an attack on the Hammerfist Holds, in which a couple of the leaders were killed. They all discuss different figures taking part in the attacks, but given the creature's abilities, it's probably Mr Flay and Mr Gristle masquerading as various entities.
+The Grimmkin can't be truly destroyed unless all three are dead at the same time. We don't need to kill them simultaneously, but they all need to be dead at the same time.
+
+{[h]We let Jazzir rest and shift to Vilgrim and Seamus' meeting}
+The two of them head to the keep, seeing the Lyrander airship still tethered. They are met by Alpha, who leads them to the chambers of Dolaan. There's a desk which Dolaan is sitting at, and he's got a swivel chair that he seems to have brought himself.
+He scooches over to where Vilgrim and Seamus are sitting, and says he has something to show them. He reveals a lifesize mechanical hummingbird, which flits around his head. Dolaan proves that he's Vilgrim's biggest fanboy, as he made a bird just for him because he knew Vilgrim likes birds. Seamus doesn't see the practical application, but ok fam, my friend died last night.
+Dolaan gets back to business, and says that the Cannith agents will be reinforcing the wards set up by the Brindol Academy, and shoring up walls elsewhere. He fears that this city needs more aid that what limited augmentation he can provide. He then explains that he was here on a diplomatic mission, as House Cannith is currently in political turmoil. Many ambitious minds wish to lay claim to the house, and many of the traditional heirs were killed in The Mourning. There are three candidates. One is Zorlan(?) d'Cannith, who Seamus has heard of. His dragonmark appeared on his head, so he shaved his head. Dolaan says he wouldn't chuck in with him. There's Jorlana(?) in the west, and thinks her political past is sketchy at best, and would make a mockery of the House. Merricks is the best option, and he's based in Sharn. Even though he doesn't want to lead, he's the most suitable, and has Dolaan's loyalty. So, he gets to the point. He's well aware of Vilgrim's connections, and has been in contact with his masters. He believes they can work together, as House Cannith and Zilargo have worked together in the past. He is also aware of why Seamus disavowed the house, and notes that what Seamus and his brother did was outstanding. Dolaan also finds some of what House Cannith did during the war was distasteful. Jorlana holds the most favour at the moment, but thinks that with Merricks being bolstered he can lead. At the moment, they will be helping the Vale. Vilgrim will travel with Dolaan to Zilargo to discuss the arrangement with them. He hopes this will be the start of a profitable way forwards for both Zilargo and House Cannith. They don't need to decide anything now, but that's his full offer.
+Seamus says that it's a very well thought out offer that he's made. He asks what the House can bring to the Vale if he accepts the offer. Dolaan says he's done work on the gates, and can leave a contingent of capable artificers if needed to maintain the wards. He doesn't have the assets he wished to bear, as he came here for diplomacy, not war. Seamus admits that his support would encourage him to take up Dolaan's offer.
+Dolaan openly admits to not being the greatest fighter.
+
+{[h]Another brief timeskip}
+There's the sound of horns and bells ringing from Brindol keep. There's initial panic, and then we hear the call go out, "Ulverth returns! Gryphon riders on the horizon!"
+There's a refugee caravan coming up the road, escorted by 5 gryphon riders above, and 5 gryphons fly ahead with the cavalry. Angelo recognises the colours of House Cristole at the head of the convoy.
+
+We end the session here
+
+{[h]Quick item swap around}
+Vilgrim gives his arrows to Brande
+The party gains two potions of healing, as Vilgrim gives those to them`
+    },
   ]
 }
 
