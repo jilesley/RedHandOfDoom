@@ -157,69 +157,8 @@ $(document).ready(function() {
 
       // Handling Notes
 
-      var lines = note.content.split("\n");
-
-      for (var i = 0; i < lines.length; i++) {
-        var initLine = lines[i];
-
-        if (initLine.length == 0) {
-          continue;
-        }
-
-        var finalLine = "";
-
-
-        var splitLine = initLine.split(/{|}/);
-
-        for (var j = 0; j < splitLine.length; j++) {
-          var split = splitLine[j];
-          if (split.length == 0) {
-            continue;
-          }
-
-          var prefix = "<p>";
-          var inner = split;
-          var suffix = "</p>";
-
-          var regex = RegExp('^\[[b|u|i|h]+\]');
-          if (regex.test(split)) {
-            var modEnd = split.indexOf("]");
-            var modifiers = split.substring(1, modEnd);
-
-            var classes = [];
-            var element = "p";
-
-            for (var k = 0; k < modifiers.length; k++) {
-              switch (modifiers[k]) {
-                case "b":
-                  classes.push("text-bold");
-                  break;
-                case "u":
-                  classes.push("text-underline");
-                  break;
-                case "i":
-                  classes.push("text-italic");
-                  break;
-                case "h":
-                  element = "h4";
-                  break;
-                default:
-              }
-            }
-
-            prefix = "<" + element + " class='" + classes.join(" ") + "'>";
-            inner = split.substring(modEnd + 1);
-            suffix = "</" + element + ">";
-          }
-
-          finalLine += (prefix + inner + suffix);
-        }
-
-        lines[i] = finalLine;
-      }
-
-      $Notes.append(lines.join("\n"));
-
+      $Notes.append(convertStringToHTML(note.content));
+      
     }
   });
 

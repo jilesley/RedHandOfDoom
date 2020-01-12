@@ -194,11 +194,18 @@ $(document).ready(function() {
 
 // Handle content
 
-  $("#Content").append(
-    "<p>" +
-
-    "</p>"
-  )
+  $("#Content").append(convertStringToHTML(`
+Welcome to the site for our Red Hand of Doom campaign!
+Currently the site is only optimised for reading on larger screens (computers, laptops, maybe a large iPad etc). I plan on making it suitable for mobiles and smaller devices at somepoint.
+I'm using a font called 'Gabriola'. It's a cool style font that works well with the whole parchment and fantasy style while still actually being readable. I know some devices may not have this font and so it may all look a bit off - I'm working on it!
+I'm still working on getting everything in order, but currently all session notes are up and ready to read.
+The next things on my list are;<ol>
+<li>{[b]Finish adding session stats.} I've only done the stats for sessions 1, 2, 3 and 19.</li>
+<li>{[b]Add player character content pages.} The pages exist, but I haven't got the code set up to fill in the details yet.</li>
+<li>{[b]Add statistics page.} Same again, the page exists but no functionality. Eventually it will count up session stats and make some averages etc. We'll finally be able to see who the real damage dealer is ;)</li>
+<li>{[b]Add world pages.} This is going to be pages for all of the other stuff. Maps, world lore, DM notes etc. This will be the last thing I work on most likely.</li>
+</ol>
+`))
 
   // $("#Content").append("<p>" +
   //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit. " +
@@ -285,3 +292,81 @@ function getUrlParameter(name) {
     var results = regex.exec(location.search);
     return results === null ? null : decodeURIComponent(results[1].replace(/\+/g, ' '));
 };
+
+
+
+
+// Convert text to HTML
+function convertStringToHTML(stringToConvert) {
+
+  var lines = stringToConvert.split("\n");
+
+  for (var i = 0; i < lines.length; i++) {
+    var initLine = lines[i];
+
+    if (initLine.length == 0) {
+      continue;
+    }
+
+    var finalLine = "";
+
+
+    var splitLine = initLine.split(/{|}/);
+
+    for (var j = 0; j < splitLine.length; j++) {
+      var split = splitLine[j];
+      if (split.length == 0) {
+        continue;
+      }
+
+      var prefix = "<span>";
+
+      var inner = split
+                    .replace(/“/g, "\"")
+                    .replace(/’/g, "'")
+                    .replace(/…/g, "...")
+                    .replace(/í/g, "&#237;");
+
+      var suffix = "</span>";
+
+
+      var regex = RegExp('^\[[b|u|i|h]+\]');
+      if (regex.test(split)) {
+        var modEnd = split.indexOf("]");
+        var modifiers = split.substring(1, modEnd);
+
+        var classes = [];
+        var element = "span";
+
+        for (var k = 0; k < modifiers.length; k++) {
+          switch (modifiers[k]) {
+            case "b":
+              classes.push("text-bold");
+              break;
+            case "u":
+              classes.push("text-underline");
+              break;
+            case "i":
+              classes.push("text-italic");
+              break;
+            case "h":
+              element = "h4";
+              break;
+            default:
+          }
+        }
+
+        prefix = "<" + element + " class='" + classes.join(" ") + "'>";
+        inner = split.substring(modEnd + 1);
+        suffix = "</" + element + ">";
+      }
+
+      finalLine += (prefix + inner + suffix);
+    }
+
+    lines[i] = "<p>" + finalLine + "</p>";
+  }
+
+
+  return lines.join("\n");
+}

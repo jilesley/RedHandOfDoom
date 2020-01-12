@@ -44,6 +44,22 @@ em {
 }
 
 
+ol {
+  padding-left: 2rem;
+  counter-reset: number-counter;
+}
+ol li {
+  counter-increment: number-counter;
+}
+ol li::before {
+  content: counter(number-counter) ".";
+  position: absolute;
+  left: 2.2rem;
+  font-family: "Times New Roman";
+  font-size: .9rem;
+}
+
+
 img {
   height: 100%;
   width: auto;
