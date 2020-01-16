@@ -596,7 +596,79 @@ And that's the end of the session. We are now level 5, and we get a long rest.
       date: "21/08/19",
       characters: [
         {
-          name: "",
+          name: "Aleya",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Angelo",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Brande",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Ganraz",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Gareth",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Seamus",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Vilgrim",
           damageDealt: 0,
           healing: 0,
           kills: 0,
@@ -2923,6 +2995,226 @@ We end the session here
 {[h]Quick item swap around}
 Vilgrim gives his arrows to Brande
 The party gains two potions of healing, as Vilgrim gives those to them`
+    },
+
+    {
+      name: "Session 20",
+      title: "The First Head Falls",
+      date: "20/01/20",
+      characters: [
+        {
+          name: "Angelo",
+          damageDealt: 196,
+          healing: 35,
+          kills: 2,
+          bigKills: 1,
+          healingRecieved: 0,
+          damageTaken: 10 + 26,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Brande",
+          damageDealt: 155,
+          healing: 0,
+          kills: 1,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 8 + 10,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Ganraz",
+          damageDealt: 127,
+          healing: 10,
+          kills: 2,
+          bigKills: 1,
+          healingRecieved: 10,
+          damageTaken: 26,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Seamus",
+          damageDealt: 35,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Siennis",
+          damageDealt: 127,
+          healing: 0,
+          kills: 2,
+          bigKills: 0,
+          healingRecieved: 12,
+          damageTaken: 8 + 4 + 14 + 52,
+          timesUnconcious: 1,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Sigrun",
+          damageDealt: 198,
+          healing: 17,
+          kills: 4,
+          bigKills: 0,
+          healingRecieved: 17,
+          damageTaken: 4 + 14 + 13 + 6 + 18 + 11,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Vilgrim",
+          damageDealt: 135,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 19,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+      ],
+      content:
+`{[h]At the gates of Brindol}
+The call went up announcing Captain Ulverth’s return.
+We have all returned to the keep and are looking out of one of the towers. We see six gryphon riders, some of which are circling a large train of refugees. Two gryphons break off from the pack, heading straight towards Brindol keep.
+We all roll perception checks. 15 and up, we can see Jarmaath and some of the lion guard coming up to greet the riders. We notice that the gryphon riders are moving with haste towards the keep. The cavalry are moving quickly along with the caravan. They seem to be moving faster than we’d expect, heading towards the South Gate. The gryphon riders seem to have plate armour. The lion guard seemed relaxed initially, but upon seeing the gryphon riders their hands go to their word. 20 and above, they can see the caravan seems to be 400ish people, and House Cristole colours are at the front. From Ganraz’s military perspective, he can see the cavalry seem to be patrolling as well as herding, and are at attention.
+As the gryphon riders approach, we make our way to the top of the tower. The riders have majestic armour, and we can see the gryphons seem to be showing signs of minor wounds. Brande can see that one has minor gashes that are healed over, and the other still bears large barbs around its neck. They look more like large porcupine quills than the talons of the razor fiends. Both riders dismount and bow to Lord ir’Jarmaath.
+One is male, the other female. The male, late 20’s, cleanshaven, athletic, 6’1”, looks like the purest example of a chivalrous knight. He has long brunette hair that’s been pushed back. The woman is shorter, 5’10”, has two shortswords. Both are very attractive. Ganraz can see they both look tired, but like skilled warriors. They look similar, potentially related.
+Jarmaath greets them. Ser Elizabeth and Ser Justinian. Elizabeth says they were sent ahead by Ulverth, who went back to help the part of the caravan that got cut off by warg riders. Ser Justinian says that they were being led by a Guard Captain to Tersken Ridge, which they hope will provide relative safety. Jarmaath can have six ready quickly, the rest are on patrols.
+Lord ir’Jarmaath asks us if we can help. We naturally agree. 2 score warg riders, draconic entities with them, but no dragons. A cohort of manticores supporting them. They lost two riders trying to get the refugees out.
+We have five minutes to prepare. We take the time to divvy up Aleya’s gear. Ganraz is naturally in charge of it. He gets the Gauntlets of Ogre Power. Ganraz also gets Aleya’s sword, because he wants to kill Mr Flay with it. Lightsaber on his hip, Vraath’s Frost on his back. Ganraz of Rivia, let’s go. Brande gets Ganraz’s Ring of Adrenaline. Her spellbook is added to Angelo’s things, but he’s sort of looking after it rather than intending to use it.
+
+{[h]Let’s fight some wargs}
+Seamus and Vilgrim haven’t made it back in time, they’re still with Dolaan.
+Sir Justinian mounts up again, and we also get on gryphons, one each. These creatures are larger and more majestic than the one we found on the road two weeks ago. Siennis has just been thrown headlong into the chaos, welcome to our world, once you walk out this door you are a Breaker.
+As we soar overhead, the shimmering barrier over the gate disappears, allowing the first riders into the city through the South Gate. We swoop by the caravan too quickly to get a good look at who’s in the House Cristole stagecoach. There are a lot of people who looked injured, but they’re moving quickly to the city.
+We bank away from the caravan. The flight to Tersken Ridge takes about 25 minutes. We see grassy slopes giving way to rocks. As we approach, we see a melee going on. There seems to be a circular formation of soldiers surrounding maybe 80 or so refugees. There are also two gryphon riders in the air. Warg riders trade arrows with the soldiers. There’s a snarling manticore coming at us from the right, and one of the gryphon riders yells as his gryphon and the manticore lock in the air. Ganraz reacts at the last second, knocking an arrow out of the air with his shield.
+Ser Justinian calls out from the front, ‘I can’t see Ulverth!’
+Another manticore banks in our direction, flicking his tail in our direction. A huge gryphon swoops low, and the rider summons a wall of force that scatters the quills in midair. Siennis reaches to her side, lifting a crystal handle and focusing for a second. A thin trickle of blood falls from her nose as she uses Crimson Rite, prepping to utilise her whip. The gryphon rider’s helmet has been knocked off, and the man we know to be Ulverth shouts for Justinian to help Sigrun on the south side. Justinian nods, telling us to descend and look for a dwarf.
+The goblins have noticed our arrival and are trying desperately to press their attack, hoping to get to the refugees before we do. The gryphons land, skidding to allow us to dismount, and then taking off again. Brande looks at his hand, and then jumps from the gryphon, casting Fly. Angelo disapproves but literally can’t stop him. They immediately move to engage some of the manticores in the air. We roll off of the gryphons, standing to get our bearings. We see a thin line of soldiers, a couple get strafed by manticores and some warg riders.
+One warg jumps up the ridge, leaping towards one of the soldier, and this stocky figure in full plate brings their axe down, cleaving through the warg’s shoulder, then quickly killing the rider too. As the dwarf stands again, we see her helmet is gone. She has a mane of flaming red hair, matted with blood, wearing armour similar to the rest of the soldiers with lions. She’s out of breath but has a feral grin. She turns and yells at us, ‘Nice of you to show up!’ Before returning her focus to the rest of the fight.
+
+{[h]The Battle of Tersken Ridge}
+Initiative order: Siennis (and Vilgrim later), manticores, Sigrun, Ambush Drakes, Brande, Angelo, Ganraz, (later Seamus), (later Robin), (later Ozyrrendion), soldiers
+Siennis is up first. She skids to the ground, and takes a second to survey the carnage. There’s battle all around, but this was the area we were told to defend. She moves towards the ridge, which is 10ft down. Seeing some draconic looking demon gods, she fires two Eldritch Blasts at the blue Ambush Drake. She deals 5 force damage, and then 11. Instead of energy, they form as shards of crystal. From the large crystal she used her Crimson Rite on, emerges a broken chain of purple energy.
+Two manticores swoop down out of combat with the gryphons. They’re about 30ft up. The red manticore makes three tail spike attacks. One is at the green soldier, and two at the blue soldier. Blue soldier takes 9 damage, and then the second quill kills him. He lands near Angelo, who can see that he was probably early 20s. The blue manticore attacks, two at green soldier one at orange. The attacks on green soldier miss, but orange soldier takes 5 damage.
+Sigrun is up. She moves forwards to the edge of the ridge, holding her action for when something gets in range.
+The drakes are next. They clamber up the ridge. Sigrun reacts, attacking the red drake and dealing 11 damage. Red drake bites at Sigrun, but misses. Green drake rushes up and tries to bite orange soldier, but also misses. Blue drake rushes up, inhales, and exhales blue vapour over Siennis and green soldier. Both of them succeed their con save. The drake looks frustrated.
+The DM asks someone to roll a d10. Nick rolls a 6. Nothing immediately happens. The party groan.
+Brande is 30ft in the air. He hangs back, flying nearer to where Angelo and Ganraz landed. He uses Hunter’s Mark on red manticore, and shoots. He deals 24 damage. He shoots again, dealing 22 damage. The red manticore is looking pretty pissed off and hurt.
+Angelo runs towards the edge of the ridge, summoning his Spirit Guardians, dealing 22 damage. The green drake looks pretty hurt, and backs away from the green soldier. It has definitely noticed Angelo now. He then bonus action generates Vestige. A long Elvish blade appears in his hand, silver with dark grey filigree, same as his butterflies.
+The warg riders are up. Red warg rider attacks red soldier, dealing 9 damage and knocking him prone. The second attack deals 6 damage. The warg makes a bite attack, using its reaction, but it misses. Blue warg rider launches a javelin at Sigrun. The first attack deals 4 damage, second deals 14. Green warg rider tries to make an attack against Sigrun. First one misses, second hits, dealing 13 damage. She succeeds her strength save. The warg tries to bite her but misses. The purple warg can’t do anything yet, because it only just got up to the ridge, but it takes 24 damage from Angelo’s butterflies (both warg and rider).
+Ganraz runs down to orange soldier, and attacks green drake, dealing 10 slashing damage and 3 cold damage. His second attack also hits, dealing 7 slashing and 3 cold. The orange soldier sees butterflies swirling in, forcing the drake away, and then he sees a half-orc warrior come out of nowhere and slam into this drake. It’s definitely dead. Orange soldier looks at Angelo and Ganraz in awe, and says, “The Breakers!” Ganraz ignores this, using his commander’s strike to tell Brande to shoot at the red warg. Brande shoots at the warg, not the rider, and with sharpshooter he deals 27 damage. The red soldier is trying to keep the warg off of him, holding his shield up against his chest. The warg gets killed instantly, and the goblin tumbles from its back. Ganraz also commands Siennis to attack, and she uses her reaction to lash out against the blue drake. She deals 19 slashing damage, and 8 psychic damage. The whip almost extends in a straight line, and the tip pierces through the drake’s chest, and its head explodes. Ganraz then uses his bonus action to put Hunter’s Mark on the purple warg.
+Orange soldier, inspired by the Breakers rocking up, charges forwards shouting, “For Brindol!” We kind of didn’t want him to do that, but ok mate, we’ll save you in a sec. The goblin takes 10 damage from orange soldier, and gets killed. Green soldier kills the warg with 10 damage. The Red Hand don’t stand a fucking chance against these boys. Red soldier attacks the red goblin, dealing 24 points of damage.
+Top of the round, our roll takes effect. Another ambush drake runs in from the right. Brande, from his vantage point, can see a line of militia further up the map, and can see non-combatants near to them. Things seem to be stabilising on our side, but it is still chaos all around.
+Siennis is up. The energy of her whip flares as she lashes out, utilising Mental Discordance. The whip does 10 slashing damage, and then 10 psychic damage to the red drake. Her second attack just misses.
+The manticores are next. Red manticore soars at Brande and unleashes three attacks at Brande, as he’s flying. The first attack misses, but the second hits. It deals 8 slashing damage. The third attack missed. He succeeds his con save, so he’s still airborne. It attacks again, dealing 10 damage to Brande. He rolls another con save, and succeeds again. The blue manticore flies down, taking 12 damage from Angelo’s butterflies. The first attack deals 4 damage, and the second deals 8 slashing damage. He succeeds both con saves, so his butterflies are still up.
+Sigrun is next. She swings at the red drake first, as it’s the most hurt. She deals 11 damage, killing it. She then turns and tries to beat the shit out of the green warg. It hits, and she deals 14 damage. She attacks again, rolling a 19 which is a crit. She deals another 27 damage, and the warg is very much dead. The goblin falls from its back, and falls prone. Sigrun roars in the face of the goblin that’s fallen, and it plus the blue warg rider have to roll wisdom saves. The blue warg fails, the warg rider succeeds, and the prone goblin fails. The fails are frightened. She stays put.
+The drake is up next. Poor little guy. It tries to use its breath weapon on Ganraz and Angelo. The drake takes 8 damage from butterflies. Both Ganraz and Angelo succeed their con saves.
+Brande is up. He attacks the manticore in front of him, dealing 15 piercing damage. Red manticore is still up. His second shot also hits, dealing another 18 piercing damage. Red manticore falls from the sky. Brande moves his Hunter’s Mark to the new drake.
+Angelo deals 17 damage to the manticore by using Booming Blade and his Vestige blade. I love this sword. He then shouts to the green soldier, “Stay alive, and get back!” casting Healing Word on him and giving him 9hp back.
+The goblin on the ground starts flailing wildly, dealing 8 damage to Siennis. He then uses Nimble Escape to get the fuck outta dodge, but he fails his acrobatics and falls down the ridge. He’s prone again and takes another point of damage. The blue warg rider throws his remaining javelins, and his first misses Sigrun, but the second deals 4 damage to Siennis. Orange warg leaps up the ridge, attacking orange soldier. He takes 9 hp. The warg then tries to attack the green boy, but orange boy has got him. The warg takes 10 damage but the goblin takes 20 damage. Then the warg takes orange boy down. For the next turn, someone has to roll a d10. Ganraz gets 10.
+Ganraz moves his Hunter’s Mark onto the blue manticore. He deals 11 slashing and 6 cold damage. His second attack deals 10 slashing and 1 cold. It looks really hurt.
+The soldiers are up. Red boi uses his movement to run towards Sigrun and Siennis. He fires his crossbow at the rider of the blue warg. He deals 6 damage. He reloads. Green soldier disengages, obeying Angelo’s instruction, and runs back to safety.
+That’s the end of the round. From where he is, Brande can’t recognise any of the refugees, but he can see an ambush drake break through the lines and get absolutely smacked down by Markos fucking Contraine. What a badass. We hear the flapping of loud wings, and a large manticore swoops down, snarling, “Fools!” Oh good. It speaks. But joke’s on the manticore, because from the sky… Seamus and Vilgrim swoop down on gryphons, readying firebolts and arrows.
+Vilgrim takes a retroactive 19 damage from the fighting.
+Siennis’ turn. She moves towards the manticore, lashing out with her whip. Her first attack deals 9 slashing damage and 8 psychic damage. Her crystalline whip slashes across its neck, wrapping around, and there’s a pulse of purple energy and its head explodes. She then turns to the new manticore, the beeeeg boi, and casts Mind Thrust on it. It fails its save, so it takes 13 psychic damage and can’t do anything its turn except for Dash or Disengage.
+Vilgrim is up. 60ft behind him the refugees have clustered, so he’s making sure the line holds. He fires at the ambush drake, dealing 27 damage in one hit. He’s back, boys. The drake looks pretty bad. Bonus action wink.
+The alpha manticore can only dash or disengage. It dashes, but it can use a bonus action. It roars, “Fight, die, rip, tear.” And howls, rallying its allies. All of its allies gain advantage on attack rolls, which are the warg and the drake. Everyone else has nearby has to roll wisdom saving throws. Angelo, green soldier and Vilgrim succeed. Siennis and Ganraz fail their wisdom saving throws, so they are frightened. The manticore is still in the air, 20ft up.
+Sigrun is next. She takes a running leap, bringing her axe down on the goblin that’s running from her. She deals 15 damage, and sticks the landing. Her second attack deals 19 damage, which definitely kills him. She then spins, facing the blue warg behind her, swinging wide. She deals 14 damage, and it’s still up.
+The drake is next. But Angelo’s butterflies shred it with 23 damage. It’s dead.
+Brande moves his Hunter’s Mark onto the big manticore boy. His first attack misses. His second attack deals 32 piercing damage, with a smite pumped in. He would be knocked prone, but he’s flying, so… We reckon it would fall down, so Brande has grounded him. The big manticore then takes butterfly damage, which is 11 damage because it saves.
+Angelo is next. He runs forwards, using Booming Blade on the warg attacking orange soldier. He deals 17 damage, which kills it. He then casts Healing Word on orange boi, giving 7 healing.
+Sigrun takes 6 slashing damage from the blue warg rider.
+Ganraz is up. He steps into the path of the manticore, and tries to attack. It misses, but he is frightened. He moves his Hunter’s Mark onto it. His second attack does hit,  dealing 15 slashing damage and 4 cold.
+Seamus is next. He casts Branding Smite and tries to hit the manticore twice. His first attack misses but the second deals 20 damage. He’s then asked to roll a d10 by the DM, and he rolls an 8. The DM says that’s interesting. YIKES.
+The orange soldier boy comes to, healed by Angelo’s magic. He says, “Thank you, my lord.” Oof, no, don’t call him that. And then charges into combat with the manticore, dealing 13 damage. Green boy is still listening to Angelo’s order, and runs to the edge of the map. Red soldier moves towards Sigrun.
+New combat round. A couple of things happen. The manticore we’re fighting is taking damage but isn’t down. A cavalry charge breaks through a group of warg riders. It looks like the last real engagement on that side. Ulverth is diving to fight with the cavalry. We hear screams from the direction of the refugees. A green scaled creature strafes along the cavalry, and six riders go down in a cloud of poisonous green. Ozyrrendion has returned. Ganraz rolls a 30 on his perception check, and can see that the green dragon has a dark burn scar across his face, the kind Gareth’s lightning might leave. We also see a warg break through the cavalry, charging for green soldier boy, but then two daggers fly forwards, killing the warg. Robin has joined the fight, FUCK EM UPPP.
+Siennis is immediately drawn to the dragon. She deals 13 points of force damage with her Eldritch Blast, and then uses her blood maledict to heal herself. She is now not frightened anymore.
+Vilgrim sees the manticore facing Ganraz, and shoots at its flank. He deals 22 damage to it. It’s starting to look as though it’s suffered some wear and tear.
+The alpha manticore is looking pissed off. It doesn’t get its roar back. It looks up to Ozyrrendion, and says, “I have these weaklings.” It whips its tail in a spray of spines. One attack against Siennis, Angelo, orange soldier boy, and Ganraz. Siennis takes 14 piercing damage. Angelo takes 10 piercing damage. He saves on his con. Ganraz doesn’t even need to raise his shield, it just clangs harmlessly off his armour. Orange boy takes 9 damage, goes down again.
+Sigrun attacks the warg rider and then the warg. Her attack on the goblin is a 19 to hit, so she deals 21 damage. He’s very very dead. Her second attack also hits the warg, dealing 17 damage and killing it too. She twirls her lion axe, and brings it down right over its head. She then clambers up the ridge, making it up with no problem. She sees red soldier at the top reloading his crossbow.
+Brande is next. Angelo warns him with a look that if he starts acting up again now that a dragon is here, they will have words. Instead, Brande shoots at the alpha manticore. His first attack misses, but his second deals 17 piercing damage.
+Angelo gives orange boy another 7hp, and he’d better stay up this time. He then attacks the manticore with his Vestige, dealing 13 damage with Booming Blade again.
+Ganraz takes a swing too, dealing 12 slashing damage and 6 cold damage. His second attack deals 14 slashing damage, and 6 cold damage. He gets the How Do You Want To Do This. As it moves towards him, he ducks to the side, slicing downwards, and takes the manticore’s head off. He then yells, “WE’RE KILLING THAT DRAGON.” The party is ready to fuck things up.
+Siennis speaks to Ozyrrendion though telepathy, in draconic, and tells him he’s not welcome here, he’s a traitor to his kind. Ozzyman replies that she’s not as clever as she thinks she is.
+Seamus brings up his arm barrier, and then yeets a firebolt at Ozyrrendion. He deals 15 fire damage. Then he backs up, because he doesn’t want to be clustered.
+Robin is next. She sees the manticore go down, and hears Ganraz shout that we’re killing the dragon. She looks to Ganraz, and says she thinks it’s a good idea. She’s not within range of Ozyrrendion, but she holds her action to throw her weapon.
+Ozyrrendion is next. Shitu. He flies down, landing on the rock, and he does get his breath weapon back. He says he was hoping Aleya would be here. He then uses his breath weapon. Siennis is the only one who fails the save. Angelo, Ganraz Constitution d’Barra and orange boy take 26 poison damage. Siennis takes 52, and she is unconscious.
+Orange boy rolls a death save. He fails. Red soldier fires his crossbow at Ozyrrendion. Green tries too, but they both miss.
+Siennis fails her death save too.
+Vilgrim gets out his flesheater arrow which he didn’t give Brande, obviously. He kneels, raising his bow, and deals 56 damage. Ozyrrendion grins at Ganraz, who’s trying to help orange soldier boy up. And then BAM, Vilgrim’s arrow slams into him.
+Sigrun dashes at Ozyrrendion, and takes two attacks at it. Her first is a 19, which is a crit. She deals 27 damage with her first hit. Her second attack misses because he casts Shield. She can make another attack, and she rolls a 20. DM demands she show him the dice. The party are losing their minds. Her attack deals 27 damage again. She tries to frighten him, but he saves.
+Brande puts his Hunter’s Mark on Ozyrrendion, and takes a regular shot at the dragon. He misses because of the dragon’s shield. In his mind, he focuses on the shard from his dream, and tries to take another shot. It still clatters against the shield.
+Angelo runs to Siennis, dragging her behind the nearby rock to give her some cover from the dragon, and casts Healing Word, giving her 12hp back. She wakes up, and hasn’t been afraid like this for 13-14 years. Interesting.
+Ganraz sees Ozyrrendion on the ground. He moves to flank the dragon, and tries to attack. He moves his Hunter’s Mark onto the dragon, but his attack misses. He tries again, and his second attack hits through the shield. He uses his trip attack, dealing 17 slashing damage and 2 cold damage. Ozyrrendion fails his saving throw, and it knocked off balance.
+Seamus doesn’t get closer to a dragon, so he firebolts and runs. It misses, and he runs to where red soldier boy is, so he can heal on the next turn.
+Robin is next. It’s a little bit too much fun for her, but she does throw two daggers at the dragon. The first misses, and the second one clangs off the shield. They return to her hands. Bonus action dash, and gets the fuck outta there.
+Ozyrrendion’s shield drops. He doesn’t get his breath weapon back. He makes three attacks against Sigrun. She takes 18 damage from the bite. The first claw also hits, dealing 11 slashing damage. She’s on 1hp. The third attack misses. That’s fucking lucky. He then flies upwards, 40ft, and tells us we are all insignificant. Ganraz and Sigrun need to take an attack of opportunity. Ganraz’s hits, as does Sigrun. So Ozyrrendion uses his shield again. Sigrun’s still hits though, dealing 6 damage.
+Orange boy rolls another death save. He succeeds this time. Red boy shoots at Ozyrrendion, but of course misses. Green boy moves off the map, heading towards the refugees to help Ulverth.
+Siennis is alive, and uses half her movement to stand. She deals 7 damage and then another 7 with her Eldritch Blast. She then moves up with the rest of her movement, and uses Mind Thrust. Ozyrrendion takes 7 psychic damage because he succeeded his INT save.
+The walking turret called uses simple geometry to shoot at the dragon. He misses unfortunately.
+Sigrun can’t do much now that the dragon is flying. Instead she beats on her arm, roaring a challenge at him, and holds her action in case he comes back down. She uses Second Wind to heal herself for 17 points.
+Brande flies towards the dragon, and immediately uses Zephyr’s Strike to give himself advantage on the hit. His two shots miss because of shield.
+Angelo runs forwards, seeing the dragon in the air, and his eyes go black. He shouts, “Land” in Elvish, commanding the dragon to land. The dragon’s will breaks, and the dragon begins to descend. He then shouts in Common, “Fuck him up, Ganraz.”
+Ganraz uses Second Wind to give himself 10hp. Then he uses Commander’s Strike on both Brande and Vilgrim. Ozyrrendion retroactively takes 5 acid damage. Vilgrim’s attack deals 16 damage and 3 acid damage with his flesheater arrow. Brande’s attack missed.
+Seamus uses firebolt on the dragon. It misses, unfortunately.
+Robin is next, and she’s miles away. She’s not in range, he’s too far up, so she moves and holds her action.
+Ozyrrendion takes more acid damage from Vilgrim’s arrows. He takes 6 damage. The dragon is still up. He lands on the rock, and that spends his action. Sigrun held her action, but her attack misses because he recasts his shield. He doesn’t get his breath weapon back. He takes 12 damage from butterflies as soon as he lands. Angelo gets the How Do You Want To Do This. Ozyrrendion snarls, “No, she promised…” As Angelo says, “You are insignificant.” And the butterflies shred the dragon.
+
+{[h]Well holy shit, we actually killed the dragon}
+Cheers ring out from the refugees and the soldiers, and Ulverth raises a golden sword. Refugees run towards the Breakers, and cheers and shouts of “The Breakers!” echo across the Tersken Ridge. Vilgrim sneaks behind a tree to avoid being trampled by people rushing to celebrate. Many people gather around Ganraz, excited to meet a real hero. We roll perception checks, and Angelo gets 21. At first he doesn’t see many people, but then he notices Markos and Hardag, who are helping Jast to walk. Some riders chase the wargs that are fleeing. Siennis goes over to the dead dragon, and rests her hand on its head.
+Markos grins at us. We’re a sight for sore eyes. Jast is happy to see us as well, and thanks us for turning up when we did. Jast sits down next to where Vilgrim is. Seamus casts Cure Wounds on Jast, and the bite in his leg immediately knits over. Markos shakes Ganraz’s hand, telling him that the refugees have heard a lot about the exploits of the Breakers.
+Ulverth approaches and formally introduces himself. He then properly introduces Sigrun, affectionately calling her “cub”. Justinian approaches too, with slightly less shiny armour now. Justinian tells Ulverth that they lost 35 men and 18 horses. Ganraz says that it won’t comfort them now, but we made them pay. The loss our enemies suffered here is huge. Ulverth agrees. They’ve also only counted 5 lost refugee lives.
+He asks if we are indeed the Breakers, and we confirm that is what they are calling us. He thanks us for our service. Then he sends Justinian to gather soldiers and refugees to get moving towards Brindol.
+Brande goes up to inspect the dragon. He can now see the burn mark on the face. There’s no other distinctive changes, from what he can remember of our last encounter with this boy. Vilgrim also inspects the dragon, hoping to work free one of the scales that he can take with him to Zilargo. That’s easy enough to do, and he does also notice that its fangs are dripping a continuous stream of poison. He collects a little bit of this, and gets 2 vials.
+Ulverth notices Vilgrim and Brande messing with the dragon, and suggests we have the honour of bringing back the head of the beast. The people of Brindol need the head of the beast. Sigrun immediately offers her services as chief beheader. It takes a few blows, but she does manage to take it. Siennis walks away, not happy with the display. Angelo notices her actions, but doesn’t comment.
+Green and orange boy are both healed up. Orange boy goes to Angelo, referring to him as Mr Noble. Merth is orange boy, and Ben is green boy. Merth was early-mid 40s, Ben is his son. They thank him for helping, and Angelo awkwardly accepts, letting them know they don’t need to call him a noble.
+For the sake of expediency, we head back to Brindol. Siennis goes to get on a gryphon, but the gryphons get more and more uneasy as she approaches. She mutters, “Of course”, and goes back with the caravan. We all decide to do the same. Brande hangs back to cremate the corpse of Ozyrrendion, and no-one objects. He speaks a few funerary words over Ozyrrendion. As he watches this dragon burn, he feels both a sense of pride and euphoria. He’s not sure if the emotion is his own, and it doesn’t overtake him, but he feels something resoundingly good.
+We return to the city, it takes us maybe 2 hours. As we approach from the outside we can see the trenches have nearly been dug. There are guards all along the walls, cheering the returning caravan. Brande is holding the dragon head. Flowers are being thrown. Siennis takes the earliest opportunity to escape out of the crowd and go home. She consults some books, whilst everything’s still fresh in her mind.
+Seamus sees two small children run between the legs of the guards, and Meryll and Tressa say they’ve missed him. Meryll is still clutching his sword, and Tressa whispers in Seamus’ ear, “I did what you told me to, I kept an eye on him.” Seamus asks if they’ve been causing any trouble for Elaine, and they admit they have been a bit. Elaine is in the crowd, and she appears very heavily pregnant.
+Ganraz sees Elaine too, and tells her that he missed her. She missed him too. Markos interrupts their moment, and says some refugees will be staying in Lady Veressa Kaal’s manor grounds.
+At the steps of the keep, we see Elise ir’Cristole and Itaan Netanis, both alive. They nod to Angelo. Dolaan d’Cannith is also on the steps, and next to him are a couple of figures we hadn’t noticed before. A half-elf stands beside him, tall with some stubble, with swooshed over hair. He’s wearing a short sleeved tunic, and on his arm is a pronounced dragonmark of storms. The dragonmarked characters recognise this, and Angelo as well. This is Captain Eirros d’Lyrander.
+We’re led into the keep, and presented with a victory feast. We had time to clean up and change clothes etc. Speeches are made in our honour by Lord ir’Jarmaath, who discusses not only the bravery and sacrifice of the lion guard, and also commends the swift action of the Breakers.
+
+{[h]Prepping for war council}
+After the victory feast, we head to the largest tower, where the airship is moored.
+Dolaan is there, and seems pleasant enough. He hopes it’ll be a quick diplomatic mission. He says that at Seamus’ request (he emphasises Tarsch instead of d’Cannith), he has left artificers etc to help with the wards. He himself is not a fighter, but he’s heard impressive things about our recent victory. He allows us time to say goodbye, and then boards, accompanied by Alpha.
+So, Vilgrim is at last leaving us.
+He approaches Angelo first, and looks up into his eyes. He then extends his hand, which Angelo sighs and takes. He reminds Vilgrim that he’s the reason he’s in this mess. Vilgrim grins, because he knows. And he hopes he can do some good elsewhere. Angelo nods, and then warns him to be careful of d’Cannith. The bard doesn’t trust his smile.
+Then Vilgrim turns and says goodbye to the others, shaking each of their hands. Ganraz tells him to hurry back. Markos, appearing behind us, agrees that Vilgrim doesn’t want to miss all the fun.
+Vilgrim: I’m going to miss you all.
+Angelo: *tuts* No you’re not, you liar.
+Vilgrim, grinning: I will miss some of you.
+To Brande, Vilgrim is a little more tentative. Brande takes his hand, and Vilgrim is unsure how to give him good advice. Jastiz lands on Vilgrim’s shoulder, ruffling his feathers and cocking his head at Brande. Brande gives Jastiz some of his rations, and Vilgrim is pleased by the gesture.
+To Seamus, he admits he never really expected to make the sort of friends he’s made over the past weeks. Then he sticks out his little hand, and Seamus takes it with his big hand.
+As Vilgrim goes to board, Killiar and Sheyla land with their owls, and ask if he’s ready. They say they must make haste. Killiar says he’s eager to see how fast the airship can fly. Vilgrim disappears inside, and we hear a deep hum of electricity as the elemental fires up, and the airship flies south towards Zilargo, with the owls escorting it.
+
+{[h]The War Council}
+[It’s currently late on the 22nd Eyre]
+With Vilgrim gone, we head to the council chambers. There’s a large map of the Vale in the centre of the table. Ulverth did extend the invitation to Siennis, as she fought, so she turns up to the war council. Jazzir is there too. She’s wearing new clothes, and looks more upbeat than she was before. Lady Veressa Kaal is there. Guard Captain Surana. A man wearing a red side cape, the colours of Denevar. There are various members of the Lion Guard, including Justinian, Elizabeth, Sigrun. Jast and Markos are also there.
+Ulverth continues his address. “With that caravan, what refugees we can safely get to the city have made it here. On the way here, we were harassed by the green dragon, and I thank you Breakers for dealing with that threat.” He goes over losses, and says their cavalry took a heavy hit. 120 good horses left, and riders to ride them. About 40 gryphons left. The owls of the Longclaw tribe are on their way, which will help. The lord of the Hammerfist Holds report that they cannot safely make the journey with their force. The roads beneath Terrelton and Dauth are unsafe, and report use of fell magic and robed, dangerous figures that can cast fire from their hands. It is possible to send aid, but from their best guesses the main horde of the Red Hand have almost reached Nimon Gap. They are essentially two days ahead of schedule. Best guess, we have ten days until they reach Brindol. Apparently they’ve been force marching, and he doesn’t know if the Breakers have had any influence on that. But, the forces of Denevar have managed to reach Brindol.
+Lord ir’Jarmaath thanks the Denevar captain for his presence. Brindol is the most defensible city, and this will be the best place to try and hold them. Jarmaath plans to give the non-combatant citizens two days to head to Denevar. They will be escorted by 200 of the Denevar guard, whilst the other 200 will support the walls. The Longclaws are sending 250 archers, and are likely to reach this place before the Red Hand.
+Jazzir has given reports of the Ghostlord, which Jarmaath also addresses. He asks us what our intentions are, as the rest of the council will be busy shoring up the defences and training those who will volunteer to fight.
+Jarmaath asks how we intend to destroy the Ghostlord. Ganraz explains that we think it’s important to take the lich out of play. Jazzir lets us know that he’s been working on an enchantment to help us traverse the Field of Wounds safely. It will take him 2 days to finish. We could be productive in that time, helping with training and maybe check in on the Hammerfist Holds. We have been given gryphons to work with. Other problems, the self-proclaimed baron of Red Rock and Elsir Cross, Hargil Trask have refused to send aid. This naturally pisses off the Lord Paramount. Veressa Kaal is thoroughly unimpressed by him, and says that he could be bought. Angelo’s little elf ears are pricking up; you don’t always need to buy people to get what you want.
+Ganraz asks if we know the numbers of the baron’s forces. In Red Rock, they’re not super well trained, but it is dangerous beneath the giant shield mountains and they can handle themselves. They perhaps have about 150 fighting men. Elsir Cross has a population of near 900. Ganraz says that he doesn’t speak for the group, but he thinks we might be best suited for trying to gather people from Red Rock or Elsir Cross.
+We do some quick out of character planning, because it’s easier. Lord ir’Jarmaath reckons we’ve got 10 or 12 days before the horde reach Brindol. They reckon the horde will stop and take time to camp and prep before laying siege. It’ll be about 2 days to get to where we think the Ghostlord is.
+
+We end the session here. We’re now Level 8.`
     },
   ]
 }
