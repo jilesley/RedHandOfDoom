@@ -2374,20 +2374,7 @@ As we start to prep for the coming days, we end our session.  `
       name: "Session 17.5",
       title: "That weird time where everyone flirted with or picked on Brande",
       date: "XX/12/19",
-      characters: [
-        {
-          name: "",
-          damageDealt: 0,
-          healing: 0,
-          kills: 0,
-          bigKills: 0,
-          healingRecieved: 0,
-          damageTaken: 0,
-          timesUnconcious: 0,
-          attemptedResurrections: 0,
-          deaths: 0
-        },
-      ],
+      characters: [],
       content:
 `{[u]Context:}
 Ganraz asked Angelo to check in with Elaine via Sending Stone when he next spoke to Itaan. Angelo made good on his promise.
@@ -3215,6 +3202,225 @@ Ganraz asks if we know the numbers of the baron’s forces. In Red Rock, they’
 We do some quick out of character planning, because it’s easier. Lord ir’Jarmaath reckons we’ve got 10 or 12 days before the horde reach Brindol. They reckon the horde will stop and take time to camp and prep before laying siege. It’ll be about 2 days to get to where we think the Ghostlord is.
 
 We end the session here. We’re now Level 8.`
+    },
+
+    {
+      name: "Session 20.5",
+      title: "Siennis speaks with Angelo",
+      date: "XX/01/2020",
+      characters: [],
+      content:
+`{[u]Context: }
+After the war council, Angelo catches up to Siennis, and they talk whilst walking through the streets back towards the Gilded Raven. They make a quick stop at her house.
+
+{[u]Conversation:}
+{[b]Angelo:} So… How are you feeling?
+{[b]Siennis:} (Telepathically at first) Better, thank you, not… (Then she remembers that no-one likes telepathic communication and continues verbally) That was, err, the first time I've, err, fought. Bit of an experience, and not a pleasant one. Thank you for asking, I appreciate it.
+{[b]Angelo:} (cringes a bit at hearing her voice in his head) That's... good. It certainly was an experience. Sorry you got dragged along into the chaos. If it's any consolation, most of us didn't sign up to be here.
+{[b]Siennis:} I apologise for the... method of communication. It is much more comfortable for me. But, if you don't mind me asking, how actually did you all get here? I know so little about any of you. I mean, you're Angelo correct?
+{[b]Angelo:} Oh. (snorts a laugh) Yes, I'm Angelo. Soliloquy is my bard name, but I think that's too long for people to remember. I got here mostly by accident, and then ended up stuck with the caravan. Now I'm apparently a "Breaker", which is... fantastic.
+{[b]Siennis:} Soliloquy huh. As in the literary device where one speaks their thoughts aloud? And a given name in the same vein as 'Noble'.
+{[b]Angelo:} (narrowing his eyes a little) Hm.
+{[b]Siennis:} If it makes you feel better, one usually finds that very few things happen by accident. There is an order to events that always finds a way to occur. You are meant to be here.
+{[b]Angelo:} I've been told that a few times. I know where I'm meant to be, and it's not... Never mind. What about you? You seem to have some interesting talents, and yet you work in the Raven?
+{[b]Siennis:} Oh, I'm originally from Aundair, but had to leave during the war. I just ended up here and the previous owner of the Raven took me on. Been here about 10 years now I suppose.
+{[i]Angelo rolls an insight check. She beats his 20 insight with a 21 deception. His passive perception is 14, and she beats that too with her 23 sleight of hand roll, casting Detect Thoughts.}
+{[i]She’s not trying to probe his thoughts. On the surface level, there’s a lot of distrust she senses from Angelo, and a lot of guilt. He’s not hostile towards her, he just seems to be trying to figure her out.}
+{[b]Siennis:} I'm sorry to be direct. But if you don't feel that you are meant to be here, and are clearly not entirely comfortable with it, then why do you stay? It would not matter anyway, everyone is always where it has been determined that they should be.
+{[b]Angelo:} It wouldn't exactly be right of me to leave now. After all, without me they'd lose half of their common sense.
+{[b]Siennis:} (laughs at that) They all seemed to know what they were doing earlier. Though the Nomad mentioning other voices in his head does worry me slightly. I would expect that none of you are fine right now. Grief takes a long time to heal. I am truly sorry though. This won't make you feel better, but do understand that it was meant to be.
+{[i]As we continue to walk, we eventually get to the area near the Gilded raven, but instead Siennis turns into a side street (Basically around Candle Road). As we reach the side street, he'll start to slow, not sure if he should keep walking with her or not.}
+{[b]Angelo:} Speaking of voices in heads... Forgive me if I seem rude, but I feel it's important to ask. How exactly does that work for you? I haven’t seen you cast anything.
+{[b]Siennis:} Don't just stand there. Unless you have something against entering buildings? (she gives him a wry smile)
+{[b]Angelo:} (returns the wry smile) It's the Elvish blood. I need to be invited.
+{[b]Siennis:} (laughing again) Well, if you insist, I grant you permission to enter my place of residence. If you're actually a vampire though then please don't eat me. Draki would never stop laughing.
+{[b]Angelo:} No vampires here. Sunlight does wonders for my skin.
+{[b]Siennis:} I don't need to cast anything. It's just speaking but non-verbal. You have the ability to cast spells, and one of the more basic ones allows you to communicate one-on-one non-verbally. It's no different, just more efficient. Why speak when you don't need to?
+{[i]She leads him up a short staircase and then opens a door at the top. Inside you can see that it's a pretty nice space. Not that large, but well and comfortably furnished (you get the impression that Siennis was raised somewhere with good taste). You're immediately in what can be considered a living room/study and on one side is basically covered in bookshelves which are full of books. The desk is covered in bits of parchment and ink wells and there are two books open on the desk. Siennis walks into another room. Angelo has a peek at some of the books. The books are a wide mixture of stuff, from translation guides to fiction. There is a lot of stuff on history and magic though. The book, the notebook and the scrawlings on bits of parchment on the desk are all written in what looks to be runes. He doesn’t recognise the language. He doesn’t try to flip through pages or anything.}
+{[b]Siennis:} (calling out) Can I get you a drink or anything?
+{[b]Angelo:} I won't intrude for long, I assure you. I just wanted to be sure I understood your... method of communication correctly. I have another question, if you're willing?
+{[b]Siennis:} Of course. Ask me anything you would like to.
+{[b]Angelo:} If you can speak in my mind without needing to cast anything, then how much do you actually see? Can you look into the minds of others?
+{[b]Siennis:} No, it just lets me talk to people.
+{[i]Angelo assumes she’s lying so he insight checks her. Siennis rolls a 17 on deception. The Insight Check Master herself must be watching over him, because with Ghost Aleya’s guidance he gets a 23 insight. He can tell Siennis is lying, but he’s seen her literally melt people’s brains so he’s not sure exactly what her capabilities are. Her lie makes him smile tiredly.}
+{[b]Angelo:} (To himself, in Elvish) One more thing to keep an eye on…
+{[b]Siennis:} (In Elvish) Keep an eye on what? Also, do you want a drink at all? (She has brought out two glasses and filled one with amber liquid.)
+{[b]Angelo:} (stares at her for a second, surprised, and then barks a laugh. He sticks to Elvish, because nothing is sacred now so why not. She also sticks with Elvish) Of course, that’s just my luck. ...What do you have?
+{[b]Siennis:} What do you normally drink? This is sort of a favourite of mine. It's a distillation from a place near Fairhaven (She pours him out a glass and hands it to him. Also gesturing for him to sit). Also do you prefer Elvish or Common?
+{[b]Angelo:} I'll take anything, I'm not that fussy. And it's been a while since I've had anyone to talk to in Elvish, so if your vocabulary allows, we can stick with this. I'm happy to go back to Common if you prefer.
+{[b]Siennis:} Either is fine. I am fluent in both. Do you have an objection to me directly communicating? It really is much easier. If you don't want me to then I don't mind.
+{[b]Angelo:} (thinks about it for a moment, then takes a sip) I will admit, I don't like the thought of you rooting around in my head. I'm not good with new people and I don't trust easily. That much is probably obvious to you, little mindreader. But on this one occasion, as you are my host, I will allow it.
+{[b]Siennis:} (looks slightly relieved by this. And from now on will speak telepathically.) Thank you. I do appreciate it. If you don't mind me asking, your appearance at least suggests that you have spent some time in polite society. Where did you study?
+{[b]Angelo:} I had a tutor from a young age, when my magic first surfaced. Much to his despair, I'm sure. And then I went to a college for a little while. But quite a lot of my abilities are self-taught. Yourself? I see a lot of books here on the study of magic.
+{[b]Siennis:} The important thing is that you had someone to guide you. It was much the same for me. I was born doing what I can do, but I met someone who helped mould them into something useful.
+{[b]Angelo:} Where did you study? In Fairhaven?
+{[b]Siennis:} No, somewhere far away from anything to do with the war, thankfully.
+{[b]Angelo:} Your abilities are impressive. I have no safeguards against someone like you. I don't have any tangible way of stopping you, but I would ask you to not read my mind. (Then his eyes narrow) Unless you already have.
+{[b]Siennis:} You have my word. But you do not need to be so on guard. I am trying to help, that is all. I said that I will assist you all in any way possible, and that is what I intend to do.
+{[i]He insight checks, because that’s the first thing you do when you hear someone say they want to help, but she doesn’t roll deception because she’s being honest.}
+{[b]Angelo:} (grinning) I'm always on guard. Ask any of the other Breakers.
+{[b]Siennis:} Well, there is much to be gained from wariness. On that note, what can you tell me about the others?
+{[b]Angelo:} For a start, the one you call ‘Nomad’ is Brande. Do people really not know our true names?
+{[b]Siennis:} I mean, most people have never met you, and correct me if I'm wrong, but you don't seem like the type of person who goes around telling everyone your name.
+{[b]Angelo:} That’s… true. It's annoying to be stuck with 'The Noble', but it's too late for all that now. In any case, yes, Nomad is Brande. He loves making new friends, I'm sure you'll get along just fine. Our leader, in an unofficial capacity, is Ganraz.
+{[i]He goes through all of the Breakers, but he doesn’t give full names. He also gives brief identifying descriptors, like “half-orc warrior” or “human artificer” etc, so she can put names to faces, without giving out too many details. He doesn’t mention Aleya.}
+{[b]Siennis:} So Ganraz and Seamus are the dragonmarked heirs. I can't say I've ever had much to do with the houses. And Brande is the one with the voices. I don't suppose you'd know what voices they are do you?
+{[b]Angelo:} I... have an idea. But I think it would be best if you asked him that question. Be warned though, he's being unusually vague recently.
+{[b]Siennis:} You intrigue me, go on?
+{[b]Angelo:} (shakes his head) I'm usually the vague one. Perhaps he's just adopting my habits. He is known to be naive, but recent events may have changed that. There are some things I need to look into.
+{[b]Siennis:} Maybe I could help you there? I am quite used to looking into things. What type of things in particular?
+{[i]With her passive perception, she can see his body language shifting to something more guarded. Not hostile, just defensive.}
+{[b]Angelo:} Perhaps you could help. You would have to talk to Brande first though.
+{[b]Siennis:} I appreciate we barely know each other, but I cannot help if I don't know how to. If you would prefer I talk to Brande, then I shall, but different perspectives may well be helpful.
+{[b]Angelo:} Different perspectives are indeed helpful, and I'm sure yours is very interesting, little mindreader. But Brande sometimes forgets to distinguish what is said to me in confidence or not, so I will err on the side of caution. If he opens up to you, I'm more than happy to discuss this again. As I said, your perspective intrigues me.
+{[b]Siennis:} Then I will talk to him and consult with you afterwards. There is no harm done by making sure no boundaries are crossed. One more question if I may? That Dragon earlier, you had encountered it before?
+{[b]Angelo:} Yes. We met Ozyrrendion at Skull Gorge. He was defending a bridge that the Red Hand intended to use to cross and invade the Vale. We killed the Wyrmlord with him and broke the bridge. Thus, we earned our moniker - 'The Breakers'. Ozyrrendion fled the battle just before we killed Koth. Why do you ask?
+{[b]Siennis:} Only because you had clearly encountered him before and I was curious. What do you know of dragons?
+{[b]Angelo:} I've heard a fair few stories. I didn't think any existed until we encountered Ozyrrendion. I can tell you that the bigger the dragon, the older and more powerful it is. Dragons get stronger with age. I know that black dragons spit acid, green dragons breathe poison, and so on. I also know about the Age of Demons, and some of the stories from that time. (He tilts his head) You seemed very interested in Ozyrrendion. Are dragons a particular study of yours?
+{[b]Siennis:} You could say that, yes, I certainly have a vested interest in them. (She leans back and takes a sip of her drink) You are correct in general terms with what you know. The part that interests me is that Dragons generally believe strongly in prophecy and do not tend to act overtly, unless it is in relation to the elves of Aerenai. It is unusual for a dragon to be acting this way, let alone be so far away from its homeland.
+{[b]Angelo:} They aren't acting alone. The Red Hand worship The Dragon Queen, which seems to bind them all together. (He takes out the Tiamat pendant) You might recognise this. The more zealous members of the horde carry these.
+{[b]Siennis:} I do indeed recognise it. I find it plausible based off that that these Dragons have been manipulated into believing that it is foretold that Tiamat will return. Either that or they are interpreting events very differently.
+{[b]Angelo:} I think that's most likely what’s happening. Some of them talk as though she's already back. But I’d like to think we would have noticed if that were the case.
+{[b]Siennis:} I hope that that is the case, but do not be so certain. Entities that have existed for as long as Tiamat work on a scale far beyond our comprehension. Predicting what they will do is only possible through the actions of those who serve it and other, more esoteric methods.
+{[b]Angelo:} If we had the opportunity to catch one of the monks maybe, or Ulwai's war priests, we might stand a chance of better understanding what exactly they intend to do. The Lurkers didn't seem to know, and I doubt we can catch a Wyrmlord.
+{[b]Siennis:} The Lurkers?
+{[b]Angelo:} The Lurkers worked under Wyrmlord Saarvith. They were scouts, spies, and kept a watch on the Blackfens, occasionally scouting as far as Drellin's Ferry to keep an eye on the Vale. Saarvith is gone now, so I have no idea what happened to them.
+{[b]Siennis:} If they have no ties to the religious aspects, then they may have returned to Darguun. But I do not know enough about the situation there. I am sorry about these questions. If you wish to rest then you need only say. It has been a tiring day for us all. I need to return to the Raven anyway. Draki will want to know I'm ok.
+{[b]Angelo:} No need to apologise. I've interrupted your evening long enough. But, to make one thing clear... I don't want you going in my head. Ever, if you can help it. It's not a safe place for you to be. (He takes a breath) I will, however, allow you to communicate with me via your preferred method. I admit I still find it... unsettling. But strangely enough, I believe you when you say you want to help. So if it's more comfortable for you, then I will tolerate it.
+{[b]Siennis:} No need to apologise. I invited you here after all, and you have given me much to think about. I have given you my word that I will not pry if you do not want me to, I have no reason to make you uncomfortable. For what my word is worth, I do just want to help, as difficult as it is for you to trust me. But I would not expect anything else, you have lost a friend and are clearly troubled. It is much less hassle, but if you would like me to stop at any time then you need only say. I do not wish to antagonise you. Now, if you give me a minute I will escort you back to the Raven. Providing that is where you wish to go.
+{[i]She gets up and goes into a side room for a minute. She then comes out wearing a fine silvery grey dress, collects a couple of things from the desk and heads over to the door. She is still wearing the same crystal necklace and you can now see the whip handle seemingly attached to her side, but on closer inspection is actually floating there. Angelo, being the one who’s collected quite a few dragon scales, notices that the piece of crystal has been cut from a much larger piece, and it actually looks somewhat similar to Jazzir's scales, though obviously not topaz.}
+{[b]Angelo:} Very pretty (it's not clear if he's complimenting Siennis in general or commenting on the necklace that he's noticed)
+{[i]Siennis rolls an insight check. Angelo, the bard who has expertise in deception, so he’s the good-at-lying one, rolls a 22, which cannot beat her natural 20. He’s not lying, but he’s being vague again, that’s why he rolled. But, she’s a mindreader, and he’s on like 12hp, that’s the only excuse.}
+{[b]Siennis:} Yes, it is, isn’t it? Thank you though. Normally it's just Draki that says I'm pretty. I think most people are slightly confused when they talk to me. Force of habit I suppose.
+{[b]Angelo:} Andraki is correct. Ignore the others. Let's get you back to him, no doubt he's heard many a horrific tale about the battle today.
+{[i]They start to head back to the Raven, which is only 5 minutes away.}
+{[b]Siennis:} Oh undoubtedly. I'm sure he have some interesting ideas about it all. He's a good man though, been kind to me over the years.
+{[b]Angelo:} He does seem to be a good man. And it appears he's well aware of your strange talents. I'm sure that was an interesting first encounter.
+{[b]Siennis:} Well, he's aware of some of them at least. He found them especially useful in converting the Raven to something other than, for lack of a better term, a shithole.
+{[b]Angelo:} That was partly your doing? Very impressive. The Raven is glorious. I feel very at home.
+{[b]Siennis:} I am pleased to hear it. Some comfort in these troubling times is all we can hope for.
+{[i]They return to the Raven and part ways. Angelo either regroups with the party or goes straight to bed, depends, and Siennis goes to talk to Andraki Lenn, the goodest boi.}`
+    },
+
+    {
+      name: "Session 21",
+      title: "Ganraz backstory and The Interrogation of Brande",
+      date: "18/01/2020",
+      characters: [
+        {
+          name: "Angelo",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Brande",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Ganraz",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Seamus",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+        {
+          name: "Siennis",
+          damageDealt: 0,
+          healing: 0,
+          kills: 0,
+          bigKills: 0,
+          healingRecieved: 0,
+          damageTaken: 0,
+          timesUnconcious: 0,
+          attemptedResurrections: 0,
+          deaths: 0
+        },
+      ],
+      content:
+`{[h]Doing some quick planning and evening discussion }
+[It’s the 22nd, but it’s late at night so it’s about to be the 23rd]
+Angelo retroactively asks Sheyla and Killiar for an amulet of non-detection like the one Vilgrim had. Now no-one within 10ft of Angelo can be scryed on. We also decide to go to Elsir Cross during the two days of downtime we have before Jazzir’s potion is done. Ganraz raises the point that nipping straight over to the Ghostlord has reward, but also a hell of a lot of risk. Maybe focusing on Hammerfist Hold first would be best. Seamus and Angelo are inclined to agree.
+We have a vague plan, so the party head out of the council chamber.
+The grounds of the manor houses are being used as camping grounds for the refugees. Lady Kaal has agreed to have her manor grounds used, and the majority of the refugees we personally know will have gone there for the night.
+Sellyr pings us, which she’s been doing periodically. She sends it to Ganraz, and he replies, “The situation has changed, siege approaches. One dragon slain. Aleya died fighting the enemy. Please send me phylactery. Thank you for your trust and help.” There is a pause, and then she sends again. “I had heard of the dragon’s fall.” She agrees to send us the phylactery. Ganraz is in the corridor, and a leaf blows past him. A writhing mass of roots and leaves form a circular portal, creating a shimmering barrier in the corridor, and a lead lined box extends through the portal. The roots place it on the ground at his feet. He puts his box in his bag of holding, and then heads to see the refugees.
+Angelo catches up to Siennis for a chat.
+Brande goes off to find Jazzir.
+Seamus took the kids to the camp earlier, so he knows they’re fine. He does have the option of taking the kids to stay with him in the Raven, but decides against it. Ganraz heads towards Kaal manor, which is beautiful, and surrounded by acres of tents. It’s well organised, and some people are still revelling around campfires. Ganraz thinks about seeking out Markos first, who doesn’t fully know that Aleya’s dead yet. But then changes his mind, it’s a pretty heavy conversation, so he waits until the next time they see each other. He instead seeks out Elaine.
+Markos and Jast are elsewhere, but Ganraz speaks to Hardag, asking where he can find Elaine. He’s pointed in the right direction. He reaches a larger tent, with a thin light peeking through the gap in the entrance. Ganraz enters quietly but not stealthily, so he doesn’t wake up the kids but he’s not creeping. Elaine is quietly stroking Tressa’s hair. The half-elven woman is probably a few weeks away from giving birth.
+She struggles to get up, telling him they should talk outside. They both exit the tent and find a quiet section of the beautiful garden that’s not currently being used as a camping ground. They sit on a bench near some apple trees. She kisses him, and the kiss is returned with authority. He apologises for being away for a while, and she jokes about trouble following them. Lights glitter and float around the gardens; Veressa Kaal is a very rich woman. Elaine is sad that the refugees will have to leave so soon. Ganraz says he wishes it was as they’d hoped, that they could have arrived and settled, but the Breakers have work to do. She asks if he noticed the captain of the airship Vilgrim left on. He tells her it was Eirros Lyrander, who she does recognise and would have considered a friend once. She doesn’t think he was involved in what happened. She’s worried that any of the other houses might be aware of them, and it won’t end well for them. Ganraz suggests that his Breaker status might protect the two lovers from the Houses. He then goes on to discuss the thing he was sent to kill, and tells Elaine that it killed Aleya. She had assumed the worst. Ganraz blames himself for Aleya’s death, because she came to help Ganraz with his hunt. Elaine reminds him she doesn’t like his archaic contracts, but he says he’s not doing it for the House anymore, he’s doing it to avenge Aleya. He then promises that he will do his best to stay with her for the rest of his life, and they’ll figure out the future from there. Elaine’s dragonmark peeks out from under her sleeve. She knows Ganraz doesn’t like fame, but the Breakers have inspired a lot of the refugees, and she’s proud of him. She also tells him to kill Mr Flay for himself, for Aleya, and for the children. She also adds that he should know by now that it’s definitely children, not child. They need to think of names. [The party weigh in that names like Aleya, Varic, these are good names] Ganraz promises that everything’s going to be ok, he can feel it. [The party groan, he’s basically sacrificed himself, damn it Ganraz that’s a death knell]. Elaine says he should probably speak to Markos, as he’s not going to abandon the refugees now due to his own nature as a Cyran. Markos and Jast and Robin agreed to protect Elaine at Ganraz’s request. She thinks she’ll also be safe with Elise and Itaan, especially as Itaan is trained in the medical arts. She asks how long Ganraz will be around, and he lets her know the party plan to head out to Elsir Cross to deal with some baron. Ganraz offers for Elaine to stay with him in the Gilded Raven tonight, so she can have a bath and a bed, and they tell Hardag to look after the kids.
+We all eventually regroup at the Raven, so Angelo and Siennis see them come in. Andraki the goodest boi is there to greet us, and is happy to see Ganraz. He’s also really happy to meet Elaine, and asks if they need anything, to which Ganraz says all the pillows. Andraki takes that very seriously and he’s very drunk, so their room ends up having quite a few pillows. Angelo sees them, and doesn’t comment – now that Aleya isn’t here, he’s the only party member who has a clearer idea of what’s going on between them, as he knows about the twins. Siennis obviously has no clue who Elaine is.
+Brande goes to Jazzir’s study, having expressed a wish to speak with him. Jazzir has found some information on what Brande asked him to find – he asked Jazzir to look into Tine Siorai, as his clan of Kenna seem to be the only ones who worship or have even heard of it. He asked if Jazzir had heard to Tine Siorai fighting dragons before. Jazzir tells him that Tine Siorai is an interesting figure, and in one book he found more recent lesser-known religions, like Brande’s. Brande glimpses over Jazzir’s shoulder, a desk further back with a shard similar to the one in the wizard’s staff, with a blue aura around it. Jazzir sees him look back, and tells him he’s enchanting the shard to have a repulsion magic to combat the Field of Wounds. In any case – Tine Siorai is supposedly a divergent representation of the Silver Flame, which has to be briefly explained to Brande. The parallels between the flame giving life and hero souls returning to the flame and Tine Siorai’s stories are obvious. But Tine Siorai’s legend is about 300 years old, and the story has changed by word-of-mouth edits, and had the added aspect of the followers of Tine Siorai gaining visions. So essentially, for the past 300 years the creation myth of Tine Siorai has developed into what Brande knows it to be now. It seems to be specific to the desert Brande grew up in. For everywhere else, it’s been largely written off as a version of the Silver Flame. Brande has a lot to think about.
+Jazzir goes on to ask what Brande’s visions are about, whether they are dreams or something else. Brande describes them as goals or instructions, which are usually wreathed in flame. Jazzir makes a quick history check. He hasn’t heard of any entities giving visions in the form of flames. Brande says that the visions do seem to be related; he saw The Mourning before it happened, and he saw the party and then met them, he saw the city of Rhest etc. The revelation that Brande had some level of divination makes Jazzir hesitate. He thinks it’s troubling, but Brande thinks it’s more like a blessing. Jazzir says he hasn’t heard of an entity like this, and worries that there are entities that have malicious intent. He asks if Brande has spoken to Siennis, but he hasn’t. Jazzir advises him that the religion seems harmless, but voices in his head, and divination, these are things Brande shouldn’t trust. One last thing, Brande brings up the red gem he showed Angelo. Jazzir recognises it as some sort of dragon shard. It’s a fragment of a whole, and he can’t tell what the whole is, but some enchantment has changed its colouration. Brande confirms he saw it in one of his visions. House Tharasshk were particularly interested in acquiring dragonshards. Veressa Kaal probably has some, maybe Lord ir’Jarmaath, but they’re very expensive and very rare. There are some within the cathedral of the sovereigns. Jazzir will reach out and try to see who might know more about the shards. He cautions Brande one more time to be careful. Brande also asks Jazzir to keep this discussion between them both.
+[We break for dinner, and the party goes to bed]
+
+{[h]In the morning}
+[It’s the 23rd Eyre today]
+We wake up, feeling a bit stronger now as we’re level 8 officially. We head downstairs for breakfast, and Andraki isn’t in. Siennis would know that Andraki is probably out trying to procure some transport. Elaine is with us, and Seamus asks if she just left Meryll and Tressa alone, and then if she thinks they’d be happier to hang out in the Raven. Siennis casts Thought Shield [we briefly ponder why in the world she’d need to cast that, but we go with it] Siennis joins us at the table as they’re talking, asking if she’s welcome to sit.
+She says she’s spoken to Angelo a little now, but doesn’t really know the others. She asks who Elaine is and asks about her stay. She also lets Elaine know that the kids are welcome to stay. Elaine looks around at the expensive ornaments in the room, and says she might need to have a word with Meryll before he comes to visit the Raven. Seamus takes out a disk and, using magic, records his own voice saying, “No. Meryll, no.” Elaine remarks that Seamus seems to be experienced with children, and he tells us that he made some for his sons when they were growing up. Ganraz suggests we could just set Meryll on the Red Hand, we’d definitely win. Elaine says that Meryll doesn’t seem to actually distinguish between friend and foe at the moment. Brande is glad he didn’t actually enchant the sword.
+As we leave, we see Andraki Lenn packing up his things onto a cart he’s found. He lets us know we can stay in the Raven whilst he’s gone, as he’s leaving soon to try and beat the rush.
+Ganraz: We’ll try to keep the damage and looting to a minimum.
+Andraki: …I hadn’t considered looting.
+Angelo: {[i]Ganraz}.
+Ganraz: We’ll also try to keep dragons from burning it down.
+Angelo: Ganraz.
+Andraki: …oh.
+Angelo pushes to the front to try and reassure Andraki. Siennis joins in the fun by also teasing him, and Andraki promises to give us free drinks for life if we keep the tavern safe. Maybe just a year. Elaine lightly scolds Ganraz for teasing Andraki, saying that’s not what she meant by inspiring the people.
+
+{[h]Back to camp}
+Markos has gathered a few militia, which he’s trying to organise but they’re scattered. As we near them, Meryll runs forwards past Jast, and Tressa is chasing him, firing the lights out of the little wand Seamus gave her. Jast grabs Tressa as she tries to run past him, and points at Seamus. Meryll sees him too and runs to grab Seamus’ legs, both of them firing questions at him. Whilst he’s talking to the kids, Seamus gives Tressa the disk that says No Meryll.
+Markos talks to the rest of us, and he asks if we’re heading out soon. Brande comments on the ragtag group of soldiers. Markos says he’s trying to get them into shape, and also adds that he doesn’t know why we’ve got nicknames but he doesn’t. Markos mentions the arrangement between himself and Ganraz, but in a subtle way, giving him a look to ask if it’s ok to talk about it in front of the rest of the Breakers. Markos has spent his life defending Cyre, and he intends to remain in Brindol to fight. Ganraz asks if Markos has heard about what happened to Aleya. Angelo drifts away from the group here, not wanting to listen. Markos says he’s sad about what happened, that Aleya was a fine soldier, and the people here have lost too much. He also asks about Ganraz’s contract, who says he’ll avenge her regardless of pay. Ganraz reckons it’ll be no issue training the newest recruits. Markos tells him that the refugees are probably done running, and that the people have lost their homes and are willing to fight for a new one.
+We have a quick look around, and can see Robin is fine, throwing her daggers at a tree and then summoning them back. She walks over next to Jast. Hardag is there too. Elise ir’Cristole and Itaan exit their tent to check on their belongings being packed up.
+Angelo asks Elaine how she is, because he knows she’s carrying twins even if no-one else does. He admits he has very little understanding of medicine, but he does have some grasp of healing magic he can offer her to add to her comfort. She thanks him for the offer, and says that Itaan is looking after her.
+The bard then goes and talks to Elise and Itaan, and Elise expresses her condolences for Aleya’s death, making him uncomfortable. She’s due to have an audience with Veressa Kaal soon, and Angelo asks if she wants any support in that meeting. She says she’ll be fine. Itaan has been researching Tiamat, and remarks that it’s unusual for Tiamat to have any followers, let alone hobgoblin followers. Angelo will remember this. Itaan also adds that he’ll go to the library in the Brindol Academy, as the books he managed to save aren’t enough. Siennis follows Angelo, and says Itaan can keep some of her books for her. Angelo formally introduces Siennis to Itaan. He then asks Itaan to continue research on Tiamat, and also research legends and myths around the Elsir Vale itself, focusing on the lich perhaps.
+Lady Veressa Kaal steps out of her manor, and Angelo escorts Elise to her. Lady Veressa says she will be happy to receive Elise now. She then confirms Angelo’s identity, and he sketches a bow – in court terms, it’s a very low effort “fuck you” kind of bow. Lady Kaal recognises this immediately, and smiles. She asks about his Breaker nickname, Noble, and asks if he’s of noble heritage. He says he’s a humble bard, serving in many courts, and was known as a singer. He also says he reckons his attire is what prompts people to give him the nickname. Her insight is higher than his deception, so she smiles again and says she’s just a humble businesswoman. Angelo catches that immediately and inwardly curses. She looks forwards to learning more about him soon, and he looks forwards to learning more about her. She then bids him farewell, calling him “Just Angelo.” Ok, ok bitch, I see how it is, Angelo will remember this. He does a lot of muttering to himself in Elvish.
+Veressa’s bodyguard, a minotaur named Uud, follows her in.
+As we’re leaving the camp, Angelo hangs back to cast Message to Ganraz. “So… have you picked out any names yet? You can reply to this message.” He replies that he has some ideas, but nothing concrete yet.
+Siennis walks over to talk to Brande. She asks him about the voice in his head, and then asks if he would allow her to speak telepathically. He does, and she asks about Tine Siorai, and explains a little more on the Silver Flame. She notes that Brande’s religion seems to be different, as Tine Siorai actually speaks to him. Brande explains how TS shows him visions, and gives him some guidance. She rolls a 24 on her sleight of hand, and he only rolls a 23 on perception. So close. She can sense that he’s a bit frustrated because of the questions, and then he’s calm, almost unnaturally calm. He’s also confused, as he doesn’t seem to know as much as he thought he did. Siennis asks if he’s the first of his clan to actually have these visions, but he doesn’t know any living. He summons his bow as an example of what gifts Tine Siorai has given him. She recognises some infernal in the runes on the bow. Siennis rolls an arcana and religion check to see if she knows of any entities that communicate through visions. She knows about some entities that can try to lead people to take certain courses, and it’s possible to be led astray by instructions. She quizzes Brande on how Tine Siorai speaks, what voice it uses, etc. He explains that voice isn’t the right term, and it’s a mixture of things. It’s more a case of being shown a goal to achieve, and it’s Brande’s choice what path he takes to reach that goal. Siennis asks if he can show her, or there is another, faster way. [Mind-reading, say goodbye to your thoughts, Brande] He doesn’t like that, so he shows her an image of the shard instead. She asks what happened at the time he saw it, and he notes she seems to know a lot. She admits to reading a lot of things, particularly about magic and histories and religion. Part of her is curious and part of her is concerned. She apologises for pressing him with lots of questions, and he says it’s fine.
+They’ve been talking telepathically for a while, so Ganraz moves nearer to Angelo and says that Siennis is really weird. Angelo comments that we seem to have picked up a mindreader, who can speak in our heads any time she likes, so we can probably expect more conversations like this in the future. Ganraz gives that a big ole hmm.
+Brande asks Siennis about the dragonshard. He believes that Tine Siorai is telling him to get one of these to help control his power and control over himself. Siennis says that control over oneself is very important. She then asks what TS has asked him to do in the past. The first vision was what brought Brande to the rest of the group/the caravan. But he considers TS’s visions to all be guidance. Siennis says he has an interesting relationship with TS, and warns him to be careful. There are beings in this world that are very powerful. Events have a way of shaping themselves to a certain path, and sometimes there are beings that try to make sure certain events happen, just as others try to make sure some don’t. Finding that path is no easy task, and he must be certain in himself that he is on the right path. Brande tells her TS hasn’t failed him so far.
+Seamus spends time with the kids, “flying” through the trees using his grapple arm. He pretends Meryll isn’t secure, but Meryll likes danger and is hyped. That kid is not afraid of anything.
+
+{[h]To the Dawn Gate}
+Ulverth meets us as we prepare to depart, and tells us that Elsir Cross is a bridge town. The town grew to prominence due to lumber trade, and has a large papermill. It’s not extensively wealthy, but it has reasonable trade. Until 10 years ago, the town was run by Elder Dynn, who eventually passed away, and since then Trask has been effectively the de facto ruler of the town. He used to operate a smuggling ring through the Giant Shield Mountains, getting people in and out of Darguun. Since then he’s switched to more honourable businesses. He’s a balding man, and portly, but he’s dangerous, having grown up on the streets. He’ll be in the town hall. Trask has five sons, many of whom share the father’s build and will therefore be easier to spot. Hakkon Trask, the eldest, will most likely be the baron’s right-hand-man.
+Jarmaath would like to reaffirm that we are not to try and assassinate Trask, just to meet with him and try to determine why he’s being so cowardly. Ulverth gives the party a diplomat’s pouch; if we write any letter on it, addressed to someone with a diplomat’s pouch, then they will receive the message.
+A stablehand bearing a family crest - Teskerwill – comes forwards to hand over the horses. Siennis recognises it immediately, and Angelo rolls 21 on his history check; One of the founding families of Brindol dating back to Rhestan days, the Teskerwills live in this sizable mansion. Their primary interest is horse breeding, and a sizable walled field to the southwest of this mansion houses the best of their stock. Currently, the entire stock of Teskerwill horses has been donated—over the protests of the family patriarch, Owen Teskerwill—to the war effort, placed at the use of the Lions of Brindol for the duration. His name is Bael, and Ganraz asks him if his House has given all of their horses to the war effort. They have, as Teskerwill is loyal, which is incredibly generous. Owen’s three children are all commissioned into the militia as cavalry officers.
+We notice that the horses seem nervous around Siennis. Her steed seems to want to refuse the rider, but with the help of the stablehands she manages to get on. Angelo calls out, asking if everything’s all right. She says it’s fine, she just hasn’t ridden much, it’s not her preferred mode of transport, and sometimes it’s just like this. He insight checks. She’s lying. He doesn’t call her on it, he just makes a mental note.
+
+{[h]Elsir Cross}
+As we stop on a ridge, the sun setting in the distance, we see Elsir Cross. The town is set on the river, and centres around a large papermill. We ride down to the town, and slow our pace. People muttering as we pass. A man walks out into the road, 100m ahead of us, essentially blocking our path. There are a few men nearby, wearing bright red sashes. He’s got a bit of a shit eating grin on his face, and welcomes us to the town of Elsir Cross. He’s Witt Trask, fifth son of “Baron” Trask. He eyes Ganraz, remarking that he’s not as tall as he’d heard. Angelo is itching to cast Vicious Mockery. Ganraz asks for an audience with the Baron, and Witt is interrupted by a woman named Miha who comes out and says that our audience with the baron is expected. Angelo quietly asks Ganraz what his policy is on casting non-lethal magic on people, because he’s tired and already irritated by Veressa Kaal. Ganraz mutters that if he doesn’t get caught, then…
+So, the party is led into the town of Elsir Cross. And we end our session here. `
     },
   ]
 }
