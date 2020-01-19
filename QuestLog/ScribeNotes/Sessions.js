@@ -3206,7 +3206,7 @@ We end the session here. We’re now Level 8.`
 
     {
       name: "Session 20.5",
-      title: "Siennis speaks with Angelo",
+      title: "Little Mindreader",
       date: "XX/01/2020",
       characters: [],
       content:
